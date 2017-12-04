@@ -96,10 +96,12 @@ def pos_tagger(text, catagory):
         word = [wt[0] for (wt, _) in word_tag.most_common() if wt[1] == 'JJ' or wt[1] == 'JJR' or wt[1] == 'JJS']
     elif catagory == 'adv':
         word = [wt[0] for (wt, _) in word_tag.most_common() if wt[1] == 'RB' or wt[1] == 'RBR' or wt[1] == 'RBS']
-    if catagory == 'adj_adv':
+    elif catagory == 'adj_adv':
         word = [wt[0] for (wt, _) in word_tag.most_common() if wt[1] == 'JJ' or wt[1] == 'JJR' or wt[1] == 'JJS' or wt[1] == 'RB' or wt[1] == 'RBR' or wt[1] == 'RBS']
     elif catagory == 'verb':
         word = [wt[0] for (wt, _) in word_tag.most_common() if wt[1] == 'VB' or wt[1] == 'VBD' or wt[1] == 'VBG' or wt[1] == 'VBN' or wt[1] == 'VBP' or wt[1] == 'VBZ']
+    elif catagory == 'adj_adv_verb':
+        word = [wt[0] for (wt, _) in word_tag.most_common() if wt[1] == 'JJ' or wt[1] == 'JJR' or wt[1] == 'JJS' or wt[1] == 'RB' or wt[1] == 'RBR' or wt[1] == 'RBS' or wt[1] == 'VB' or wt[1] == 'VBD' or wt[1] == 'VBG' or wt[1] == 'VBN' or wt[1] == 'VBP' or wt[1] == 'VBZ']
     return word
 
 
@@ -107,8 +109,9 @@ df['pos-tag-adj'] = df['tokenized_text'].apply(pos_tagger, catagory='adj')
 df['pos-tag-adv'] = df['tokenized_text'].apply(pos_tagger, catagory='adv')
 df['pos-tag-adj_adv'] = df['tokenized_text'].apply(pos_tagger, catagory='adj_adv')
 df['pos-tag-verb'] = df['tokenized_text'].apply(pos_tagger, catagory='verb')
+df['pos-tag-adj_adv_verb'] = df['tokenized_text'].apply(pos_tagger, catagory='adj_adv_verb')
 
-for p in range(4):
+for p in range(5):
     if p == 0:
         pos = "adj"
         pos_name = "Adj"
@@ -118,9 +121,12 @@ for p in range(4):
     elif p == 2:
         pos = "adj_adv"
         pos_name = "AdjAdv"
-    else:
+    elif p == 3:
         pos = "verb"
         pos_name = "Verb"
+    else:
+        pos = "adj_adv_verb"
+        pos_name = "AdjAdvVerb"
 
     df['w2v_' + pos] = df['pos-tag-' + pos].apply(pos2v)
     feature_w2vAdj = np.array((df['w2v_' + pos].apply(lambda x: (x.mean(0)))).tolist())
