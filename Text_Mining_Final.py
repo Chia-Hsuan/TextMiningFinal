@@ -23,8 +23,7 @@ df = pd.DataFrame.from_dict(data, orient='columns')
 
 # preprocess
 df['sentiment score'] = df['sentiment score'].apply(lambda x: (float(x)))
-df['tokenized_text'] = df['text'].apply(lambda x: CountVectorizer().build_analyzer()(x))
-#.apply(lambda x: re.sub(r"http\S+", "", x)).apply(lambda x: CountVectorizer().build_analyzer()(x))
+df['tokenized_text'] = df['text'].apply(lambda x: re.sub(r"http\S+", "", x)).apply(lambda x: CountVectorizer().build_analyzer()(x))
 
 df_feature = pd.DataFrame()
 
