@@ -1,0 +1,3439 @@
+[
+{
+    "UniqueID": "1684_Ashtead",
+    "id": 1144,
+    "company": "Ashtead",
+    "title": "Ashtead to buy back shares, full-year profit beats estimates",
+    "sentiment score": 0.588
+  },
+  {
+    "UniqueID": "828_Shell",
+    "id": 1145,
+    "company": "Shell",
+    "title": "EU regulators clear Shell's takeover of BG Group",
+    "sentiment score": 0.276
+  },
+  {
+    "UniqueID": "252_Prudential",
+    "id": 1146,
+    "company": "Prudential",
+    "title": "UK's FTSE has worst day so far in 2015 as BG and Prudential fall",
+    "sentiment score": -0.651
+  },
+  {
+    "UniqueID": "1103_GlaxoSmithKline",
+    "id": 1147,
+    "company": "GlaxoSmithKline",
+    "title": "GlaxoSmithKline acquires HIV assets",
+    "sentiment score": 0.39
+  },
+  {
+    "UniqueID": "971_Barclays",
+    "id": 1148,
+    "company": "Barclays",
+    "title": "Barclays faces another heavy forex fine",
+    "sentiment score": -0.834
+  },
+  {
+    "UniqueID": "573_Diageo",
+    "id": 1149,
+    "company": "Diageo",
+    "title": "Diageo Shares Surge on Report of Possible Takeover by Lemann",
+    "sentiment score": 0.481
+  },
+  {
+    "UniqueID": "545_Borealis Infrastructure",
+    "id": 1150,
+    "company": "Borealis Infrastructure",
+    "title": "Borealis Infrastructure putting together new Severn Trent bid",
+    "sentiment score": 0.154
+  },
+  {
+    "UniqueID": "759_Burberry",
+    "id": 1151,
+    "company": "Burberry Group plc",
+    "title": "FTSE 100 falls as China devaluation hits Burberry, mining stocks",
+    "sentiment score": -0.479
+  },
+  {
+    "UniqueID": "1634_Deutsche Boerse",
+    "id": 1152,
+    "company": "Deutsche Boerse",
+    "title": "London Stock Exchange â€“ Deutsche Boerse merger under threat from Brexit",
+    "sentiment score": -0.443
+  },
+  {
+    "UniqueID": "55_Tesco",
+    "id": 1153,
+    "company": "Tesco PLC",
+    "title": "Tesco Abandons Video-Streaming Ambitions in Blinkbox Sale",
+    "sentiment score": -0.335
+  },
+  {
+    "UniqueID": "624_AstraZeneca",
+    "id": 1154,
+    "company": "AstraZeneca",
+    "title": "UPDATE 1-AstraZeneca sells rare cancer drug to Sanofi for up to $300 mln",
+    "sentiment score": 0.35
+  },
+  {
+    "UniqueID": "317_Shire",
+    "id": 1155,
+    "company": "Shire",
+    "title": "Homebuilders, Shire Gains Spur FTSE 100 to Rally Beyond Record",
+    "sentiment score": 0.837
+  },
+  {
+    "UniqueID": "1295_Royal Mail",
+    "id": 1156,
+    "company": "Royal Mail",
+    "title": "CompaniesRoyal Mail adds a penny to stamp prices",
+    "sentiment score": -0.05
+  },
+  {
+    "UniqueID": "606_Royal Mail",
+    "id": 1157,
+    "company": "Royal Mail",
+    "title": "Royal Mail shares fall as Ofcom publishes discussion document",
+    "sentiment score": -0.349
+  },
+  {
+    "UniqueID": "91_ITV",
+    "id": 1158,
+    "company": "ITV",
+    "title": "ITV backs Carl Frampton to revive the glory days",
+    "sentiment score": 0.251
+  },
+  {
+    "UniqueID": "1712_AdeS",
+    "id": 1159,
+    "company": "AdeS",
+    "title": "The Coca-Cola Company and Coca-Cola FEMSA to Acquire AdeS Soy-Based Beverage Business From Unilever",
+    "sentiment score": 0.277
+  },
+  {
+    "UniqueID": "1565_Barclays",
+    "id": 1160,
+    "company": "Barclays",
+    "title": "Ex-Barclays Trader in Libor Case Says Boss Hit Him With Bat",
+    "sentiment score": -0.496
+  },
+  {
+    "UniqueID": "853_Morrisons",
+    "id": 1161,
+    "company": "Morrisons",
+    "title": "Morrisons warns of long road to recovery after profit plunge",
+    "sentiment score": -0.601
+  },
+  {
+    "UniqueID": "441_Hargreaves Lansdown",
+    "id": 1162,
+    "company": "Hargreaves Lansdown",
+    "title": "Hargreaves Lansdown posts record inflows in 4 mths to end-April",
+    "sentiment score": 0.416
+  },
+  {
+    "UniqueID": "275_MOVANTIK",
+    "id": 1163,
+    "company": "MOVANTIK",
+    "title": "AstraZeneca And Daiichi Sankyo To Jointly Commercialise MOVANTIK In The US",
+    "sentiment score": 0.454
+  },
+  {
+    "UniqueID": "353_EasyJet",
+    "id": 1164,
+    "company": "EasyJet",
+    "title": "EasyJet Passenger Numbers And Load Factor Improve In March",
+    "sentiment score": 0.371
+  },
+  {
+    "UniqueID": "980_WPP",
+    "id": 1165,
+    "company": "WPP",
+    "title": "WPP wins race for 'programmatic buying' agency Essence Digital",
+    "sentiment score": 0.238
+  },
+  {
+    "UniqueID": "1595_Old Mutual",
+    "id": 1166,
+    "company": "Old Mutual",
+    "title": "Old Mutual nears deal to sell US business",
+    "sentiment score": 0.269
+  },
+  {
+    "UniqueID": "1454_Travis Perkins",
+    "id": 1167,
+    "company": "Travis Perkins",
+    "title": "UK builders' merchant Travis Perkins reports strong start to year",
+    "sentiment score": 0.29
+  },
+  {
+    "UniqueID": "139_AstraZeneca",
+    "id": 1168,
+    "company": "AstraZeneca",
+    "title": "Clinigen chosen by AstraZeneca to manage access programme for next ...",
+    "sentiment score": 0.024
+  },
+  {
+    "UniqueID": "1347_Glencore",
+    "id": 1169,
+    "company": "Glencore",
+    "title": "CompaniesGlencore shares hit 3-month high after refinancing key credit line",
+    "sentiment score": 0.795
+  },
+  {
+    "UniqueID": "1147_Acerta",
+    "id": 1170,
+    "company": "Acerta",
+    "title": "AstraZeneca weighing up Acerta bid to secure blood cancer drug",
+    "sentiment score": 0.413
+  },
+  {
+    "UniqueID": "1344_Associated British Foods",
+    "id": 1171,
+    "company": "Associated British Foods",
+    "title": "Associated British Foods raises guidance as sterling wilts",
+    "sentiment score": 0.202
+  },
+  {
+    "UniqueID": "156_Pearson Jones",
+    "id": 1172,
+    "company": "Pearson Jones",
+    "title": "Standard Life share price: Insurer buys advice firm Pearson Jones",
+    "sentiment score": 0.379
+  },
+  {
+    "UniqueID": "105_Bunzl",
+    "id": 1173,
+    "company": "Bunzl",
+    "title": "Bunzl Lifts Dividend Again As Acquisitions Continue To Boost Profits",
+    "sentiment score": 0.401
+  },
+  {
+    "UniqueID": "1663_Goldman Sachs",
+    "id": 1174,
+    "company": "Goldman Sachs",
+    "title": "Goldman Sachs, Barclays, HSBC downplay Brexit threat",
+    "sentiment score": -0.147
+  },
+  {
+    "UniqueID": "1080_Morrisons",
+    "id": 1175,
+    "company": "Morrisons",
+    "title": "CompaniesMorrison evicted from FTSE 100 as Worldpay joins",
+    "sentiment score": -0.852
+  },
+  {
+    "UniqueID": "634_Royal Mail",
+    "id": 1176,
+    "company": "Royal Mail",
+    "title": "Royal Mail \"breached competition law\" over delivery service changes, Ofcom claims",
+    "sentiment score": -0.315
+  },
+  {
+    "UniqueID": "431_Rolls-Royce",
+    "id": 1177,
+    "company": "Rolls-Royce",
+    "title": "Rolls-Royce Holdings To Reduce 600 Employees In Its Marine Business",
+    "sentiment score": -0.474
+  },
+  {
+    "UniqueID": "505_HSBC",
+    "id": 1178,
+    "company": "HSBC",
+    "title": "UK stocks fall as HSBC overhaul fails to impress",
+    "sentiment score": -0.384
+  },
+  {
+    "UniqueID": "1127_RBS",
+    "id": 1179,
+    "company": "Royal Bank of Scotland Group plc",
+    "title": "RBS Investment Bank to Return to Profit After Overhaul, CEO Says",
+    "sentiment score": 0.338
+  },
+  {
+    "UniqueID": "1038_ZS Pharma",
+    "id": 1180,
+    "company": "ZS Pharma",
+    "title": "AstraZeneca Acquires ZS Pharma in $2.7 Billion Deal",
+    "sentiment score": 0.52
+  },
+  {
+    "UniqueID": "1397_HSBC",
+    "id": 1181,
+    "company": "HSBC",
+    "title": "HSBC money laundering report's release delayed amid US appeal",
+    "sentiment score": -0.043
+  },
+  {
+    "UniqueID": "519_Standard Life",
+    "id": 1182,
+    "company": "Standard Life",
+    "title": "Keith Skeoch to step up as David Nish quits as chief executive of Standard Life",
+    "sentiment score": -0.09
+  },
+  {
+    "UniqueID": "1363_Legal & General",
+    "id": 1183,
+    "company": "Legal & General Group Plc",
+    "title": "Legal & General's capital update outweighs profit rise",
+    "sentiment score": 0.056
+  },
+  {
+    "UniqueID": "846_Glencore",
+    "id": 1184,
+    "company": "Glencore",
+    "title": "Billionaire Chief Faces $210 Million Bill as Glencore Seeks Cash",
+    "sentiment score": 0.164
+  },
+  {
+    "UniqueID": "845_Morrissons",
+    "id": 1185,
+    "company": "Morrisons",
+    "title": "Market Report: New Morrisons chief executive buys another Â£500000 worth of ...",
+    "sentiment score": 0.822
+  },
+  {
+    "UniqueID": "110_Tesco",
+    "id": 1186,
+    "company": "Tesco PLC",
+    "title": "Buffett Embarrassed by 'Thumb-Sucking' on Exit of Tesco Stake",
+    "sentiment score": -0.418
+  },
+  {
+    "UniqueID": "1262_Petrofac",
+    "id": 1187,
+    "company": "Petrofac",
+    "title": "CompaniesPetrofac earnings battered by North Sea project losses",
+    "sentiment score": -0.429
+  },
+  {
+    "UniqueID": "279_Legal & General",
+    "id": 1188,
+    "company": "Legal & General Group Plc",
+    "title": "Legal & General arm buys 50 pct stake in MediaCityUK in Manchester",
+    "sentiment score": 0.315
+  },
+  {
+    "UniqueID": "318_BG",
+    "id": 1189,
+    "company": "BG Group",
+    "title": "Shell's $70 Billion BG Deal Meets Shareholder Skepticism",
+    "sentiment score": -0.209
+  },
+  {
+    "UniqueID": "820_Morrissons",
+    "id": 1190,
+    "company": "Smiths Group",
+    "title": "UPDATE 1-Engineering firm Smiths Group confirms CEO appointment",
+    "sentiment score": 0.078
+  },
+  {
+    "UniqueID": "1629_Aspen",
+    "id": 1191,
+    "company": "Aspen",
+    "title": "Aspen to Buy Anaesthetics From AstraZeneca for $520 Million",
+    "sentiment score": 0.388
+  },
+  {
+    "UniqueID": "1301_Glencore",
+    "id": 1192,
+    "company": "Glencore",
+    "title": "Glencore posts 5.7 pct fall in Q4 copper output",
+    "sentiment score": -0.522
+  },
+  {
+    "UniqueID": "1753_Barclays",
+    "id": 1193,
+    "company": "Barclays",
+    "title": "UPDATE 2-Three former Barclays traders found guilty in Libor rigging trial",
+    "sentiment score": -0.743
+  },
+  {
+    "UniqueID": "1044_easyJet",
+    "id": 1194,
+    "company": "EasyJet",
+    "title": "easyJet expects resilient demand to withstand security fears",
+    "sentiment score": 0.165
+  },
+  {
+    "UniqueID": "1368_BP",
+    "id": 1195,
+    "company": "BP",
+    "title": "Militants fire rockets at Algerian BP/Statoil gas plant, no casualties",
+    "sentiment score": -0.41
+  },
+  {
+    "UniqueID": "1157_Barclays",
+    "id": 1196,
+    "company": "Barclays",
+    "title": "New York judge tosses Saudi developer's $10 billion lawsuit vs Barclays",
+    "sentiment score": 0.686
+  },
+  {
+    "UniqueID": "956_AB InBev",
+    "id": 1197,
+    "company": "AB InBev",
+    "title": "UPDATE 3-SABMiller rejects 'informal' offer from AB InBev as too low - Bloomberg",
+    "sentiment score": -0.278
+  },
+  {
+    "UniqueID": "1235_Glencore",
+    "id": 1198,
+    "company": "Glencore",
+    "title": "UPDATE 1-LPC-Glencore launches refinancing of US$8.45bn loan",
+    "sentiment score": 0.182
+  },
+  {
+    "UniqueID": "1680_Old Mutual",
+    "id": 1199,
+    "company": "Old Mutual",
+    "title": "Standard Life and Old Mutual join CII push to professionalism",
+    "sentiment score": 0.345
+  },
+  {
+    "UniqueID": "1666_Burberry",
+    "id": 1200,
+    "company": "Burberry",
+    "title": "Burberry CEO Christopher Bailey Gets 75% Pay Cut After Disappointing Results",
+    "sentiment score": -0.593
+  },
+  {
+    "UniqueID": "911_SAB Miller",
+    "id": 1201,
+    "company": "SABMiller",
+    "title": "REFILE-RPT-Beer mega merger faces jobs battle in SABMiller's birthplace",
+    "sentiment score": -0.232
+  },
+  {
+    "UniqueID": "1102_Shell",
+    "id": 1202,
+    "company": "Shell",
+    "title": "Shell Opens Natural Gas Wells Off Irish Coast",
+    "sentiment score": 0.461
+  },
+  {
+    "UniqueID": "1251_Antofagasta",
+    "id": 1203,
+    "company": "Antofagasta",
+    "title": "Industry NewsStrong end to a tough year for Antofagasta",
+    "sentiment score": 0.771
+  },
+  {
+    "UniqueID": "1496_CaixaBank",
+    "id": 1204,
+    "company": "CaixaBank",
+    "title": "CaixaBank, dos Santos Agree on Plan for BPI Angola Exposure",
+    "sentiment score": 0.244
+  },
+  {
+    "UniqueID": "1519_AstraZeneca",
+    "id": 1205,
+    "company": "AstraZeneca",
+    "title": "AstraZeneca's investment eats into profit",
+    "sentiment score": -0.268
+  },
+  {
+    "UniqueID": "156_Standard Life",
+    "id": 1206,
+    "company": "Standard Life",
+    "title": "Standard Life share price: Insurer buys advice firm Pearson Jones",
+    "sentiment score": 0.364
+  },
+  {
+    "UniqueID": "218_Aer Lingus",
+    "id": 1207,
+    "company": "Aer Lingus",
+    "title": "UPDATE: EasyJet Passenger Numbers, Aer Lingus Traffic Up In February",
+    "sentiment score": 0.284
+  },
+  {
+    "UniqueID": "1604_Pure Food",
+    "id": 1208,
+    "company": "Pure Food",
+    "title": "Whitbread buys 49% stake in Pure food chain",
+    "sentiment score": 0.563
+  },
+  {
+    "UniqueID": "636_BP",
+    "id": 1209,
+    "company": "BP",
+    "title": "How Big Was BP's $5.8 Billion Loss?",
+    "sentiment score": -0.651
+  },
+  {
+    "UniqueID": "435_BAT",
+    "id": 1210,
+    "company": "BAT",
+    "title": "Philip Morris, BAT Sue Over Law Taking Branding Off Packs",
+    "sentiment score": -0.152
+  },
+  {
+    "UniqueID": "801_Kingfisher",
+    "id": 1211,
+    "company": "Kingfisher",
+    "title": "CompaniesShine comes off Kingfisher despite expansion plans",
+    "sentiment score": -0.281
+  },
+  {
+    "UniqueID": "998_BHP Billiton",
+    "id": 1212,
+    "company": "BHP Billiton",
+    "title": "BHP Billiton to Face Questions From Shareholders",
+    "sentiment score": -0.365
+  },
+  {
+    "UniqueID": "679_Chime Communications",
+    "id": 1213,
+    "company": "Chime Communications",
+    "title": "Chime Communications Set To Be Acquired By WPP And Providence",
+    "sentiment score": 0.198
+  },
+  {
+    "UniqueID": "342_BP",
+    "id": 1214,
+    "company": "BP",
+    "title": "UPDATE 1-BP shareholders back more disclosure on climate change risks",
+    "sentiment score": 0.037
+  },
+  {
+    "UniqueID": "1117_Barclays",
+    "id": 1215,
+    "company": "Barclays",
+    "title": "DBS, Julius Baer emerge as potential bidders for Barclays Asia wealth unit ...",
+    "sentiment score": 0.358
+  },
+  {
+    "UniqueID": "877_JP Morgan",
+    "id": 1216,
+    "company": "JP Morgan",
+    "title": "Barclays picks ex-JPMorgan exec Staley as new CEO, to start Dec 1",
+    "sentiment score": 0
+  },
+  {
+    "UniqueID": "1241_BG",
+    "id": 1217,
+    "company": "BG Group",
+    "title": "Shell share price: Standard Life announce position against BG acquisition",
+    "sentiment score": -0.194
+  },
+  {
+    "UniqueID": "799_Tesco",
+    "id": 1218,
+    "company": "Tesco PLC",
+    "title": "UPDATE 2-Tesco sells South Korean unit to MBK-led group for $6.1 bln",
+    "sentiment score": 0.317
+  },
+  {
+    "UniqueID": "572_Petrofac",
+    "id": 1219,
+    "company": "Petrofac",
+    "title": "Petrofac's order backlog rises to 13 billion pounds",
+    "sentiment score": 0.348
+  },
+  {
+    "UniqueID": "1589_ShelL",
+    "id": 1220,
+    "company": "ShelL",
+    "title": "Shell's job losses now equal Facebook's entire payroll",
+    "sentiment score": -0.222
+  },
+  {
+    "UniqueID": "224_Lloyds Banking Group plc",
+    "id": 1221,
+    "company": "Lloyds Banking Group PLC",
+    "title": "3 Reasons Why Lloyds Banking Group PLC Is Worthy Of A Place In Your ISA",
+    "sentiment score": 0.331
+  },
+  {
+    "UniqueID": "619_Barclays",
+    "id": 1222,
+    "company": "Barclays",
+    "title": "PRESS: Barclays To Cut More Than 30000 Jobs - The Times",
+    "sentiment score": -0.45
+  },
+  {
+    "UniqueID": "1116_Acerta",
+    "id": 1223,
+    "company": "Acerta",
+    "title": "Royal Mail Fined Â£40m After French Probe",
+    "sentiment score": -0.671
+  },
+  {
+    "UniqueID": "1750_M&G",
+    "id": 1224,
+    "company": "M&G Investments",
+    "title": "Aviva, M&G suspend property funds as investors panic",
+    "sentiment score": -0.807
+  },
+  {
+    "UniqueID": "1700_Barclays",
+    "id": 1225,
+    "company": "Barclays",
+    "title": "Priceline's stock jumps to new high for the year after Barclays upgrade",
+    "sentiment score": 0.45
+  },
+  {
+    "UniqueID": "1167_Kingfisher",
+    "id": 1226,
+    "company": "Kingfisher",
+    "title": "CompaniesKingfisher sliding despite promise of Â£600m capital return",
+    "sentiment score": -0.465
+  },
+  {
+    "UniqueID": "177_BP",
+    "id": 1227,
+    "company": "BP",
+    "title": "Oil giant BP reports loss of $4.4 billion in 4th quarter of 2014",
+    "sentiment score": -0.963
+  },
+  {
+    "UniqueID": "1047_SABMiller",
+    "id": 1228,
+    "company": "SABMiller",
+    "title": "CompaniesAB InBev-SABMiller deadline extended for 2nd time",
+    "sentiment score": 0.05
+  },
+  {
+    "UniqueID": "531_Aviva",
+    "id": 1229,
+    "company": "Aviva plc",
+    "title": "Aviva closes three offices as 1500 job cuts begin",
+    "sentiment score": -0.485
+  },
+  {
+    "UniqueID": "942_AB InBev",
+    "id": 1230,
+    "company": "AB InBev",
+    "title": "AB InBev attacks SABMiller bid rebuffal",
+    "sentiment score": -0.043
+  },
+  {
+    "UniqueID": "332_Standard Life",
+    "id": 1231,
+    "company": "Standard Life",
+    "title": "Standard Life assets under administration up 5 pct to 312 bln pounds",
+    "sentiment score": 0.268
+  },
+  {
+    "UniqueID": "255_Tesco",
+    "id": 1232,
+    "company": "Tesco PLC",
+    "title": "RPT-UPDATE 2-Tesco turnaround gathers pace under new CEO",
+    "sentiment score": 0.301
+  },
+  {
+    "UniqueID": "1175_Morrisons",
+    "id": 1233,
+    "company": "Morrisons",
+    "title": "UK supermarket group Morrisons cuts fresh food prices",
+    "sentiment score": 0.364
+  },
+  {
+    "UniqueID": "189_BP",
+    "id": 1234,
+    "company": "BP",
+    "title": "BP share price: Group loses bid to limit Clean Water Act fine",
+    "sentiment score": -0.547
+  },
+  {
+    "UniqueID": "422_Old Mutual",
+    "id": 1235,
+    "company": "Old Mutual",
+    "title": "RPT-Old Mutual Q1 gross sales beat forecasts, up 18 pct",
+    "sentiment score": 0.724
+  },
+  {
+    "UniqueID": "530_Johnson Matthey",
+    "id": 1236,
+    "company": "Johnson Matthey",
+    "title": "Royal Mail, Johnson Matthey lead FTSE lower",
+    "sentiment score": -0.408
+  },
+  {
+    "UniqueID": "1545_Berkshire Hathaway",
+    "id": 1237,
+    "company": "Berkshire Hathaway Inc.",
+    "title": "Should You Follow Berkshire Hathaway Into Apple Stock?",
+    "sentiment score": 0
+  },
+  {
+    "UniqueID": "1082_Barclays",
+    "id": 1238,
+    "company": "Barclays",
+    "title": "Bloomberg buys Barclays' benchmarking business",
+    "sentiment score": 0.626
+  },
+  {
+    "UniqueID": "1210_Baxalta",
+    "id": 1239,
+    "company": "Baxalta",
+    "title": "MarketsShire up 2.5% and Baxalta up 6% on $32bn deal",
+    "sentiment score": 0.663
+  },
+  {
+    "UniqueID": "861_AB InBev",
+    "id": 1240,
+    "company": "AB InBev",
+    "title": "AB InBev looks to win over SABMiller investors",
+    "sentiment score": 0.22
+  },
+  {
+    "UniqueID": "1432_Morrisons",
+    "id": 1241,
+    "company": "Morrisons",
+    "title": "Who will make the perfect match in Morrisons' bizarre love triangle?",
+    "sentiment score": 0.032
+  },
+  {
+    "UniqueID": "1764_Persimmon",
+    "id": 1242,
+    "company": "Persimmon",
+    "title": "Builder Persimmon hails 6% rise in house sales",
+    "sentiment score": 0.435
+  },
+  {
+    "UniqueID": "516_Standard Chartered",
+    "id": 1243,
+    "company": "Standard Chartered PLC",
+    "title": "FTSE 100 flat; Standard Chartered leads risers",
+    "sentiment score": 0.589
+  },
+  {
+    "UniqueID": "1138_Barclays",
+    "id": 1244,
+    "company": "Barclays",
+    "title": "Che Banca! CEO says Barclays buy to lift profit from 2016-17",
+    "sentiment score": 0.402
+  },
+  {
+    "UniqueID": "412_GlaxoSmithKline",
+    "id": 1245,
+    "company": "GlaxoSmithKline",
+    "title": "GlaxoSmithKline targets growth across units, scraps ViiV IPO",
+    "sentiment score": 0.229
+  },
+  {
+    "UniqueID": "214_Credit Suisse",
+    "id": 1246,
+    "company": "Credit Suisse",
+    "title": "New Credit Suisse boss faces stiff challenge in Asia",
+    "sentiment score": -0.181
+  },
+  {
+    "UniqueID": "408_Aberdeen Asset Management",
+    "id": 1247,
+    "company": "Aberdeen Asset Management",
+    "title": "Aberdeen Asset Management profit rises",
+    "sentiment score": 0.417
+  },
+  {
+    "UniqueID": "1135_Lloyds Banking Group",
+    "id": 1248,
+    "company": "Lloyds Banking Group PLC",
+    "title": "How Lloyds Banking Group PLC Could Double Your Money By 2018",
+    "sentiment score": 0.313
+  },
+  {
+    "UniqueID": "879_SAB Miller",
+    "id": 1249,
+    "company": "SABMiller",
+    "title": "CompaniesAB InBev signals it won't go hostile for SABMiller",
+    "sentiment score": 0.107
+  },
+  {
+    "UniqueID": "978_Legal & General",
+    "id": 1250,
+    "company": "Legal & General Group Plc",
+    "title": "Legal & General group chairman John Stewart to retire in 2016",
+    "sentiment score": -0.026
+  },
+  {
+    "UniqueID": "445_Berkshire",
+    "id": 1251,
+    "company": "Berkshire Hathaway Inc.",
+    "title": "Berkshire holders hit Buffett with hard questions",
+    "sentiment score": -0.19
+  },
+  {
+    "UniqueID": "1643_Tesco",
+    "id": 1252,
+    "company": "Tesco PLC",
+    "title": "Shell to build large-scale chemical plant in the US",
+    "sentiment score": 0.304
+  },
+  {
+    "UniqueID": "648_Royal Mail",
+    "id": 1253,
+    "company": "Royal Mail",
+    "title": "Royal Mail is improving â€“ but it's no red-letter day",
+    "sentiment score": 0.131
+  },
+  {
+    "UniqueID": "830_G4S",
+    "id": 1254,
+    "company": "G4S",
+    "title": "G4S wins security services contracts in Iraq and Afghanistan",
+    "sentiment score": 0.433
+  },
+  {
+    "UniqueID": "897_SAB Miller",
+    "id": 1255,
+    "company": "SABMiller",
+    "title": "UPDATE 5-SABMiller rejects AB InBev's $104 bln takeover approach",
+    "sentiment score": 0.172
+  },
+  {
+    "UniqueID": "502_Cairn Homes",
+    "id": 1256,
+    "company": "Cairn Homes",
+    "title": "Irish housebuilder Cairn Homes plans London listing",
+    "sentiment score": 0.189
+  },
+  {
+    "UniqueID": "1130_StanChart",
+    "id": 1257,
+    "company": "Standard Chartered PLC",
+    "title": "Exclusive - StanChart axes senior bankers in energy M&A team: sources",
+    "sentiment score": -0.105
+  },
+  {
+    "UniqueID": "55_Blinkbox",
+    "id": 1258,
+    "company": "Blinkbox",
+    "title": "Tesco Abandons Video-Streaming Ambitions in Blinkbox Sale",
+    "sentiment score": -0.195
+  },
+  {
+    "UniqueID": "252_BG",
+    "id": 1259,
+    "company": "BG Group",
+    "title": "UK's FTSE has worst day so far in 2015 as BG and Prudential fall",
+    "sentiment score": -0.631
+  },
+  {
+    "UniqueID": "417_AstraZeneca",
+    "id": 1260,
+    "company": "AstraZeneca",
+    "title": "Eli Lilly & Co. (LLY) Has Broken Out To A New High On AstraZeneca Collaboration",
+    "sentiment score": 0.405
+  },
+  {
+    "UniqueID": "675_Shell",
+    "id": 1261,
+    "company": "Shell",
+    "title": "Shell to Cut 6500 Jobs as Profit Drops",
+    "sentiment score": -0.574
+  },
+  {
+    "UniqueID": "1477_Smiths Group",
+    "id": 1262,
+    "company": "Smiths Group",
+    "title": "CompaniesSmiths Group buys $710m US security system maker",
+    "sentiment score": 0.307
+  },
+  {
+    "UniqueID": "486_Tesco",
+    "id": 1263,
+    "company": "Tesco PLC",
+    "title": "PRESS: Tesco Cuts 450 Jobs As Final Homeplus Stores Closed - Sky News",
+    "sentiment score": -0.61
+  },
+  {
+    "UniqueID": "1440_Barclays",
+    "id": 1264,
+    "company": "Barclays",
+    "title": "Barclays gives top bosses, including new chief executive Jes Staley, Â£8.7m in shares",
+    "sentiment score": 0
+  },
+  {
+    "UniqueID": "1190_Ashtead",
+    "id": 1265,
+    "company": "Ashtead",
+    "title": "Britain's FTSE falls back with Ashtead, commodities under pressure",
+    "sentiment score": -0.59
+  },
+  {
+    "UniqueID": "158_Dixons Carphone",
+    "id": 1266,
+    "company": "Dixons Carphone",
+    "title": "Tesco closes in on new chairman with Dixons Carphone's John Allan in the frame",
+    "sentiment score": 0.129
+  },
+  {
+    "UniqueID": "1202_San Miguel",
+    "id": 1267,
+    "company": "San Miguel",
+    "title": "Philippines' San Miguel says to partner with Kirin if it bids for SABMiller's ...",
+    "sentiment score": 0.19
+  },
+  {
+    "UniqueID": "548_Lehman",
+    "id": 1268,
+    "company": "Lehman",
+    "title": "UPDATE: Barclays Expects Gain After Settling With Lehman Bros Trustee",
+    "sentiment score": 0.239
+  },
+  {
+    "UniqueID": "914_AB InBev",
+    "id": 1269,
+    "company": "AB InBev",
+    "title": "AB InBev ups offer for SABMiller as deadline looms",
+    "sentiment score": 0.163
+  },
+  {
+    "UniqueID": "616_Financial Times",
+    "id": 1270,
+    "company": "Financial Times",
+    "title": "Japan's Nikkei lands Financial Times in $1.3 billion deal",
+    "sentiment score": 0.296
+  },
+  {
+    "UniqueID": "708_Berkshire Hathaway",
+    "id": 1271,
+    "company": "Berkshire Hathaway Inc.",
+    "title": "UPDATE 2-Warren Buffett's Berkshire Hathaway nearing deal to buy Precision ...",
+    "sentiment score": 0.259
+  },
+  {
+    "UniqueID": "283_Tesco",
+    "id": 1272,
+    "company": "Tesco PLC",
+    "title": "Britain's Tesco starts land sell-off process",
+    "sentiment score": -0.088
+  },
+  {
+    "UniqueID": "693_CRH",
+    "id": 1273,
+    "company": "CRH",
+    "title": "CRH adds CR Laurence to acquisitions tally for $1.3bn",
+    "sentiment score": 0.231
+  },
+  {
+    "UniqueID": "1560_AB InBrev",
+    "id": 1274,
+    "company": "AB InBev",
+    "title": "EU regulators clear $100 billion-plus AB InBev, SABMiller deal",
+    "sentiment score": 0.374
+  },
+  {
+    "UniqueID": "170_Rio Tinto",
+    "id": 1275,
+    "company": "Rio Tinto",
+    "title": "Miners help FTSE recover, Rio Tinto leads higher",
+    "sentiment score": 0.383
+  },
+  {
+    "UniqueID": "267_WWP",
+    "id": 1276,
+    "company": "WWP",
+    "title": "Tesco's Dunnhumby: Is Sir Martin Sorrell's WPP about to take a stake in the ...",
+    "sentiment score": 0
+  },
+  {
+    "UniqueID": "831_Standard Chartered",
+    "id": 1277,
+    "company": "Standard Chartered",
+    "title": "CompaniesDeutsche taps ex-StanChart executive for audit role",
+    "sentiment score": 0
+  },
+  {
+    "UniqueID": "1429_Kingfisher",
+    "id": 1278,
+    "company": "Kingfisher",
+    "title": "Kingfisher share price: FY statutory pre-tax profit falls 20.5%",
+    "sentiment score": -0.426
+  },
+  {
+    "UniqueID": "1644_Lloyds",
+    "id": 1279,
+    "company": "Lloyds Banking Group PLC",
+    "title": "Lloyds planning to cut 640 jobs to cut costs - sources",
+    "sentiment score": -0.567
+  },
+  {
+    "UniqueID": "1770_Standard Life",
+    "id": 1280,
+    "company": "Standard Life",
+    "title": "Property Stocks Slump After Standard Life Freezes U.K. Fund",
+    "sentiment score": -0.718
+  },
+  {
+    "UniqueID": "1660_London Stock Exchange",
+    "id": 1281,
+    "company": "London Stock Exchange Group",
+    "title": "Shareholder advisory groups back London Stock Exchange merger",
+    "sentiment score": 0.416
+  },
+  {
+    "UniqueID": "399_National Grid",
+    "id": 1282,
+    "company": "National Grid",
+    "title": "EU membership vital for UK's energy market - National Grid CEO Steve Holliday",
+    "sentiment score": 0.135
+  },
+  {
+    "UniqueID": "744_Glencore",
+    "id": 1283,
+    "company": "Glencore",
+    "title": "Glencore leads Britain's FTSE lower as China concerns weigh",
+    "sentiment score": -0.514
+  },
+  {
+    "UniqueID": "1561_Standard Life",
+    "id": 1284,
+    "company": "Standard Life",
+    "title": "Standard Life Elevates",
+    "sentiment score": 0.555
+  },
+  {
+    "UniqueID": "740_Standard Chartered",
+    "id": 1285,
+    "company": "Standard Chartered PLC",
+    "title": "2ND UPDATE: Standard Chartered Mulls Capital Raising As Profit Tumbles",
+    "sentiment score": -0.269
+  },
+  {
+    "UniqueID": "870_Glencore",
+    "id": 1286,
+    "company": "Glencore",
+    "title": "Glencore shares in record crash as profit fears grow",
+    "sentiment score": -0.971
+  },
+  {
+    "UniqueID": "60_Ocwen",
+    "id": 1287,
+    "company": "Ocwen",
+    "title": "Ocwen Reaches Settlement With California Regulator",
+    "sentiment score": 0.171
+  },
+  {
+    "UniqueID": "1575_Shell",
+    "id": 1288,
+    "company": "Shell",
+    "title": "Shell CEO warns renewables shift could spell end if too swift",
+    "sentiment score": -0.427
+  },
+  {
+    "UniqueID": "1699_ARM Holdings plc",
+    "id": 1289,
+    "company": "ARM Holdings plc",
+    "title": "Are ARM Holdings plc, Domino's Pizza Group plc and ASOS plc 3 must-have growth stocks?",
+    "sentiment score": 0.041
+  },
+  {
+    "UniqueID": "1562_Tesco",
+    "id": 1290,
+    "company": "Tesco",
+    "title": "Krispy Kreme bring delicious doughnuts to Maryhill Tesco in Glasgow",
+    "sentiment score": 0.1
+  },
+  {
+    "UniqueID": "936_Glencore",
+    "id": 1291,
+    "company": "Glencore",
+    "title": "Glencore director puts money back on the table",
+    "sentiment score": 0.341
+  },
+  {
+    "UniqueID": "517_RBS",
+    "id": 1292,
+    "company": "Royal Bank of Scotland Group plc",
+    "title": "CompaniesHoward Davies appointment as RBS director delayed",
+    "sentiment score": -0.025
+  },
+  {
+    "UniqueID": "1392_Volkswagen",
+    "id": 1293,
+    "company": "Volkswagen",
+    "title": "US subpoenas Volkswagen under bank fraud law in emissions probe: source",
+    "sentiment score": -0.838
+  },
+  {
+    "UniqueID": "682_AstraZeneca",
+    "id": 1294,
+    "company": "AstraZeneca",
+    "title": "AstraZeneca to Pay Inovio Up to $700 Million for Cancer Drug",
+    "sentiment score": 0.244
+  },
+  {
+    "UniqueID": "941_Shire",
+    "id": 1295,
+    "company": "Shire",
+    "title": "Britain's FTSE forges ahead as Shire surges",
+    "sentiment score": 0.512
+  },
+  {
+    "UniqueID": "967_ExxonMobil",
+    "id": 1296,
+    "company": "ExxonMobil",
+    "title": "Supreme Court Upholds $236 Million Jury Award Against ExxonMobil",
+    "sentiment score": -0.459
+  },
+  {
+    "UniqueID": "674_AXA",
+    "id": 1297,
+    "company": "AXA",
+    "title": "UPDATE: CIB, Legal & General Sell Egyptian Life Joint Venture To AXA",
+    "sentiment score": 0.215
+  },
+  {
+    "UniqueID": "126_Randgold Resources",
+    "id": 1298,
+    "company": "Randgold Resources",
+    "title": "Randgold Resources Q4 Profit Decreases - Quick Facts",
+    "sentiment score": -0.282
+  },
+  {
+    "UniqueID": "43_Tesco",
+    "id": 1299,
+    "company": "Tesco PLC",
+    "title": "Cost cuts, asset sales and writedowns in store for Tesco",
+    "sentiment score": -0.019
+  },
+  {
+    "UniqueID": "107_Lloyds",
+    "id": 1300,
+    "company": "Lloyds Banking Group PLC",
+    "title": "REFILE-UPDATE 4-Britain's Lloyds to pay first dividend since rescue",
+    "sentiment score": 0.522
+  },
+  {
+    "UniqueID": "551_Tesco",
+    "id": 1301,
+    "company": "Tesco PLC",
+    "title": "Tesco is the worst big supermarket for treating suppliers fairly, according to ...",
+    "sentiment score": -0.464
+  },
+  {
+    "UniqueID": "822_Wolseley",
+    "id": 1302,
+    "company": "Wolseley",
+    "title": "MarketsWolseley shares wilt 8.8% after full year results",
+    "sentiment score": -0.787
+  },
+  {
+    "UniqueID": "294_Juno",
+    "id": 1303,
+    "company": "Juno",
+    "title": "AstraZeneca, Juno latest to collaborate on immuno-oncology drugs",
+    "sentiment score": 0.245
+  },
+  {
+    "UniqueID": "1073_Bloomberg",
+    "id": 1304,
+    "company": "Bloomberg",
+    "title": "Barclays sells benchmark indices unit to Bloomberg",
+    "sentiment score": 0.281
+  },
+  {
+    "UniqueID": "190_Berkshire Hathaway",
+    "id": 1305,
+    "company": "Berkshire Hathaway Inc.",
+    "title": "Warren Buffett defends Berkshire Hathaway's conglomerate structure",
+    "sentiment score": 0.144
+  },
+  {
+    "UniqueID": "36_Unilever",
+    "id": 1306,
+    "company": "Unilever",
+    "title": "Unilever profit rises despite sales slump in China",
+    "sentiment score": 0.213
+  },
+  {
+    "UniqueID": "311_AstraZeneca",
+    "id": 1307,
+    "company": "AstraZeneca",
+    "title": "FDA: Data suggests AstraZeneca drug may increase death rate",
+    "sentiment score": -0.502
+  },
+  {
+    "UniqueID": "419_IBM",
+    "id": 1308,
+    "company": "IBM",
+    "title": "Warren Buffett's Berkshire adds to favorites IBM, Wells Fargo",
+    "sentiment score": 0.366
+  },
+  {
+    "UniqueID": "20_BP",
+    "id": 1309,
+    "company": "BP",
+    "title": "BP's fine for Gulf of Mexico spill capped by ruling",
+    "sentiment score": 0.032
+  },
+  {
+    "UniqueID": "755_Direct Line",
+    "id": 1310,
+    "company": "Direct Line Insurance Group PLC",
+    "title": "Direct Line Raises 2015 Guidance On Combined Ratio Improvement",
+    "sentiment score": 0.746
+  },
+  {
+    "UniqueID": "861_SABMiller",
+    "id": 1311,
+    "company": "SABMiller",
+    "title": "AB InBev looks to win over SABMiller investors",
+    "sentiment score": 0.276
+  },
+  {
+    "UniqueID": "832_SAB Miller",
+    "id": 1312,
+    "company": "SABMiller",
+    "title": "UPDATE 1-SABMiller leads S.African shares higher, rand firms",
+    "sentiment score": 0.564
+  },
+  {
+    "UniqueID": "370_Whitbread",
+    "id": 1313,
+    "company": "Whitbread",
+    "title": "Whitbread in apprenticeship drive",
+    "sentiment score": 0.187
+  },
+  {
+    "UniqueID": "335_BG Group",
+    "id": 1314,
+    "company": "BG Group",
+    "title": "Shell to buy BG Group in $69.7 billion takeover",
+    "sentiment score": 0.415
+  },
+  {
+    "UniqueID": "1602_EasyJet",
+    "id": 1315,
+    "company": "EasyJet",
+    "title": "EasyJet to turn away 'have a go' fliers who arrive less than 30 minutes early",
+    "sentiment score": 0.1
+  },
+  {
+    "UniqueID": "287_Morrisons",
+    "id": 1316,
+    "company": "Morrisons",
+    "title": "David Potts: There's trouble in store for the new boss of Morrisons",
+    "sentiment score": -0.268
+  },
+  {
+    "UniqueID": "1739_BP",
+    "id": 1317,
+    "company": "BP",
+    "title": "Judge: 22 BP fraud charges against lawyer duplicate others",
+    "sentiment score": -0.678
+  },
+  {
+    "UniqueID": "476_Lidl",
+    "id": 1318,
+    "company": "Lidl",
+    "title": "Aldi and Lidl expansion plans speed ahead as Tesco, Sainsbury's, Morrisons ...",
+    "sentiment score": 0.372
+  },
+  {
+    "UniqueID": "286_Prudential",
+    "id": 1319,
+    "company": "Prudential",
+    "title": "Prudential's departing CEO Thiam earned 11.8 million pounds in 2014",
+    "sentiment score": -0.161
+  },
+  {
+    "UniqueID": "362_Pearson",
+    "id": 1320,
+    "company": "Pearson",
+    "title": "LA Schools to Drop Pearson Products Under Ambitious Technology Plan",
+    "sentiment score": -0.466
+  },
+  {
+    "UniqueID": "1622_Standard Life",
+    "id": 1321,
+    "company": "Standard Life",
+    "title": "Standard Life chief agrees Â£600000 bonus cut",
+    "sentiment score": 0.08
+  },
+  {
+    "UniqueID": "1173_BP",
+    "id": 1322,
+    "company": "BP",
+    "title": "BP to slash 4000 jobs globally as oil prices drop",
+    "sentiment score": -0.736
+  },
+  {
+    "UniqueID": "1460_Banco BPI",
+    "id": 1323,
+    "company": "Banco BPI",
+    "title": "Banco BPI Says Deal for Angolan Unit Has Collapsed",
+    "sentiment score": -0.511
+  },
+  {
+    "UniqueID": "1583_Berkshire",
+    "id": 1324,
+    "company": "Berkshire Hathaway Inc.",
+    "title": "Berkshire Hathaway names Kara Raiguel to lead General Re unit",
+    "sentiment score": 0.077
+  },
+  {
+    "UniqueID": "1287_AstraZeneca",
+    "id": 1325,
+    "company": "AstraZeneca",
+    "title": "AstraZeneca share price: Acerta deal pays off with orphan drug status",
+    "sentiment score": 0.495
+  },
+  {
+    "UniqueID": "927_Tesco",
+    "id": 1326,
+    "company": "Tesco PLC",
+    "title": "Tesco share price: Grocer and peers to step up branded products cull",
+    "sentiment score": -0.197
+  },
+  {
+    "UniqueID": "1514_ITV",
+    "id": 1327,
+    "company": "ITV",
+    "title": "Papers- ITV eyeing Peppa Pig",
+    "sentiment score": 0.227
+  },
+  {
+    "UniqueID": "1556_Royal Mail",
+    "id": 1328,
+    "company": "Royal Mail",
+    "title": "Royal Mail gets mixed bag from Ofcom postal regulation report",
+    "sentiment score": -0.084
+  },
+  {
+    "UniqueID": "383_Shire",
+    "id": 1329,
+    "company": "Shire",
+    "title": "Shire dry eye drug fast-tracked by FDA",
+    "sentiment score": 0.336
+  },
+  {
+    "UniqueID": "969_National Grid",
+    "id": 1330,
+    "company": "National Grid",
+    "title": "National Grid mulls sale of UK gas distribution business",
+    "sentiment score": 0.229
+  },
+  {
+    "UniqueID": "981_Samarco",
+    "id": 1331,
+    "company": "Samarco",
+    "title": "BHP Billiton share price: Brazil to sue Samarco for Â£3.5bn",
+    "sentiment score": -0.637
+  },
+  {
+    "UniqueID": "1340_Kinder Morgan",
+    "id": 1332,
+    "company": "Kinder Morgan",
+    "title": "UPDATE 3-Buffett's Berkshire raises oil bet with Kinder Morgan stake",
+    "sentiment score": 0.608
+  },
+  {
+    "UniqueID": "367_Weir Group",
+    "id": 1333,
+    "company": "Weir Group",
+    "title": "CompaniesOil slump forces Weir Group into more job cuts",
+    "sentiment score": -0.501
+  },
+  {
+    "UniqueID": "322_Tesco",
+    "id": 1334,
+    "company": "Tesco PLC",
+    "title": "Tesco's deals with suppliers reflected a retailer with the wrong priorities",
+    "sentiment score": -0.328
+  },
+  {
+    "UniqueID": "1149_RBS",
+    "id": 1335,
+    "company": "Royal Bank of Scotland Group plc",
+    "title": "RBS turns away savers in latest glitch",
+    "sentiment score": -0.642
+  },
+  {
+    "UniqueID": "2_Tesco",
+    "id": 1336,
+    "company": "Tesco PLC",
+    "title": "Tesco takes fight to discounters with price cuts on brands",
+    "sentiment score": 0.18
+  },
+  {
+    "UniqueID": "884_Aviva",
+    "id": 1337,
+    "company": "Aviva plc",
+    "title": "Aviva Investors admits redemptions 'too high' after Â£500m outflow",
+    "sentiment score": -0.479
+  },
+  {
+    "UniqueID": "922_Glencore",
+    "id": 1338,
+    "company": "Glencore",
+    "title": "METALS-Zinc surges 12 pct after Glencore cuts output, fuelling metals rally",
+    "sentiment score": 0.162
+  },
+  {
+    "UniqueID": "18_Aviva",
+    "id": 1339,
+    "company": "Aviva",
+    "title": "Aviva Expects 1500 Jobs Cuts from Friends Life Deal",
+    "sentiment score": 0.2
+  },
+  {
+    "UniqueID": "1089_Acerta",
+    "id": 1340,
+    "company": "Acerta",
+    "title": "AstraZeneca Explores Potential Deal With Acerta for Cancer Drug",
+    "sentiment score": 0.369
+  },
+  {
+    "UniqueID": "205_Halfords",
+    "id": 1341,
+    "company": "Halfords",
+    "title": "Halfords recruits Jill McDonald as CEO",
+    "sentiment score": 0.081
+  },
+  {
+    "UniqueID": "622_HSBC",
+    "id": 1342,
+    "company": "HSBC",
+    "title": "Ingenious, HSBC, UBS and Coutts sued by 'tax avoidance' clients",
+    "sentiment score": -0.251
+  },
+  {
+    "UniqueID": "1540_ITV",
+    "id": 1343,
+    "company": "ITV",
+    "title": "CompaniesITV: Brexit jitters weighing on advertising",
+    "sentiment score": -0.329
+  },
+  {
+    "UniqueID": "1737_Wells Fargo",
+    "id": 1344,
+    "company": "Wells Fargo",
+    "title": "Berkshire seeks to boost its Wells Fargo stake above 10 percent",
+    "sentiment score": 0.429
+  },
+  {
+    "UniqueID": "167_BP",
+    "id": 1345,
+    "company": "BP",
+    "title": "BP boosts FTSE towards four and a half month high",
+    "sentiment score": 0.671
+  },
+  {
+    "UniqueID": "1072_Standard Chartered",
+    "id": 1346,
+    "company": "Standard Chartered PLC",
+    "title": "Standard Chartered may see white knight takeover on painful recovery: CLSA",
+    "sentiment score": -0.156
+  },
+  {
+    "UniqueID": "630_Barclays",
+    "id": 1347,
+    "company": "Barclays",
+    "title": "Barclays boss McFarlane seen speeding asset sales, cost cuts",
+    "sentiment score": 0.038
+  },
+  {
+    "UniqueID": "1029_AstraZeneca",
+    "id": 1348,
+    "company": "AstraZeneca",
+    "title": "AstraZeneca sells US drug rights to Perrigo for $380 mln",
+    "sentiment score": 0.261
+  },
+  {
+    "UniqueID": "1415_Amazon",
+    "id": 1349,
+    "company": "Amazon",
+    "title": "Amazon's grocery deal with Morrisons is only the beginning",
+    "sentiment score": 0.36
+  },
+  {
+    "UniqueID": "1555_BT",
+    "id": 1350,
+    "company": "BT Group",
+    "title": "BT share price: Watchdog bans telco's broadband adverts",
+    "sentiment score": -0.389
+  },
+  {
+    "UniqueID": "1549_Royal Mail",
+    "id": 1351,
+    "company": "Royal Mail",
+    "title": "CompaniesRoyal Mail revenues drop despite boost in parcels",
+    "sentiment score": -0.341
+  },
+  {
+    "UniqueID": "111_Tesco",
+    "id": 1352,
+    "company": "Tesco PLC",
+    "title": "Tesco investors non-plussed by John Allan as chairman - he's no Archie Norman ...",
+    "sentiment score": -0.431
+  },
+  {
+    "UniqueID": "275_Daiichi Sankyo",
+    "id": 1353,
+    "company": "Daiichi Sankyo",
+    "title": "AstraZeneca And Daiichi Sankyo To Jointly Commercialise MOVANTIK In The US",
+    "sentiment score": 0.361
+  },
+  {
+    "UniqueID": "202_RBS",
+    "id": 1354,
+    "company": "Royal Bank of Scotland Group plc",
+    "title": "RBS job cuts draw attention to number that are still there",
+    "sentiment score": -0.174
+  },
+  {
+    "UniqueID": "1431_Deutsche Borse",
+    "id": 1355,
+    "company": "Deutsche Boerse",
+    "title": "Merkel's Government Said to Support Deutsche Boerse-LSE Merger",
+    "sentiment score": 0.332
+  },
+  {
+    "UniqueID": "923_HSBC",
+    "id": 1356,
+    "company": "HSBC",
+    "title": "HSBC to sell Bermuda trust and investment management business",
+    "sentiment score": 0.2
+  },
+  {
+    "UniqueID": "1063_Direct Line Insurance Group PLC",
+    "id": 1357,
+    "company": "Direct Line Insurance Group PLC",
+    "title": "Are Aviva plc, Direct Line Insurance Group PLC And Admiral Group plc Set To Soar?",
+    "sentiment score": 0.345
+  },
+  {
+    "UniqueID": "258_AstraZeneca",
+    "id": 1358,
+    "company": "AstraZeneca",
+    "title": "AstraZeneca Teams With Daiichi Sankyo To Sell Movantik In US",
+    "sentiment score": 0.338
+  },
+  {
+    "UniqueID": "775_Standard Life",
+    "id": 1359,
+    "company": "Standard Life",
+    "title": "Even Superman Skeoch will struggle with his dual role at Standard Life",
+    "sentiment score": -0.242
+  },
+  {
+    "UniqueID": "1178_Samarco",
+    "id": 1360,
+    "company": "Samarco",
+    "title": "Samarco, Brazil government come closer on $4.8 billion dam-disaster accord",
+    "sentiment score": -0.209
+  },
+  {
+    "UniqueID": "1754_Perssimon",
+    "id": 1361,
+    "company": "Persimmon",
+    "title": "UK housing market steadies after Brexit dip, Persimmon says",
+    "sentiment score": 0.339
+  },
+  {
+    "UniqueID": "1614_Royal Mail",
+    "id": 1362,
+    "company": "Royal Mail",
+    "title": "Ofcom says will not impose new price controls on Royal Mail",
+    "sentiment score": 0.211
+  },
+  {
+    "UniqueID": "926_Glencore",
+    "id": 1363,
+    "company": "Glencore",
+    "title": "UPDATE 3-Glencore resumes slide despite investor meeting, John Mack share purchase",
+    "sentiment score": -0.396
+  },
+  {
+    "UniqueID": "307_AstraZeneca",
+    "id": 1364,
+    "company": "AstraZeneca",
+    "title": "UPDATE 2-AstraZeneca's diabetes drug Onglyza may increase death rate -FDA",
+    "sentiment score": -0.613
+  },
+  {
+    "UniqueID": "99_Meggitt",
+    "id": 1365,
+    "company": "Meggitt",
+    "title": "UPDATE 1-Meggitt reiterates annual outlook after tough 2014",
+    "sentiment score": 0.021
+  },
+  {
+    "UniqueID": "580_Royal Mail",
+    "id": 1366,
+    "company": "Royal Mail",
+    "title": "London Stock Exchange Group appoints Royal Mail's Donald Brydon to replace ...",
+    "sentiment score": 0
+  },
+  {
+    "UniqueID": "142_BP",
+    "id": 1367,
+    "company": "BP",
+    "title": "Oil majors like Royal Dutch Shell, Chevron, BP fail to find reserves to counter ...",
+    "sentiment score": -0.398
+  },
+  {
+    "UniqueID": "246_Springleaf",
+    "id": 1368,
+    "company": "Springleaf",
+    "title": "Citigroup to Sell OneMain to Springleaf for $4.25 Billion",
+    "sentiment score": 0.225
+  },
+  {
+    "UniqueID": "354_Centrica",
+    "id": 1369,
+    "company": "Centrica PLC",
+    "title": "Centrica's shareholders protest over new chief's pay package",
+    "sentiment score": -0.243
+  },
+  {
+    "UniqueID": "1715_Morrisons",
+    "id": 1370,
+    "company": "Morrisons",
+    "title": "Morrisons offers to rehire staff from under-threat My Local chain",
+    "sentiment score": 0.055
+  },
+  {
+    "UniqueID": "1224_Asahi",
+    "id": 1371,
+    "company": "Asahi",
+    "title": "Japan's Asahi to submit bid next week for SABMiller's Grolsch and Peroni - Yomiuri",
+    "sentiment score": 0.206
+  },
+  {
+    "UniqueID": "811_Old Mutual",
+    "id": 1372,
+    "company": "Old Mutual",
+    "title": "Old Mutual share price: CFO to leave company",
+    "sentiment score": -0.165
+  },
+  {
+    "UniqueID": "1399_Rio Tinto",
+    "id": 1373,
+    "company": "Rio Tinto",
+    "title": "Standout performer' JS Jacques picked to lead Rio Tinto",
+    "sentiment score": 0.167
+  },
+  {
+    "UniqueID": "277_RBS",
+    "id": 1374,
+    "company": "RBS",
+    "title": "The government should soon sell its stake in RBS",
+    "sentiment score": -0.104
+  },
+  {
+    "UniqueID": "315_Germanwings",
+    "id": 1375,
+    "company": "Germanwings",
+    "title": "Germanwings disaster will not affect image of budget air travel - easyJet",
+    "sentiment score": -0.046
+  },
+  {
+    "UniqueID": "878_Glencore",
+    "id": 1376,
+    "company": "Glencore",
+    "title": "Glencore to sell copper mines in Australia, Chile",
+    "sentiment score": 0.138
+  },
+  {
+    "UniqueID": "1688_Dixons Carphone",
+    "id": 1377,
+    "company": "Dixons Carphone",
+    "title": "Profits leap at Dixons Carphone - and it isn't worried about Brexit",
+    "sentiment score": 0.385
+  },
+  {
+    "UniqueID": "488_Bunzi",
+    "id": 1378,
+    "company": "Bunzl",
+    "title": "Britain's FTSE lags euro zone peers, Bunzl results cap market",
+    "sentiment score": 0.36
+  },
+  {
+    "UniqueID": "269_Standard Chartered",
+    "id": 1379,
+    "company": "Standard Chartered",
+    "title": "Standard Chartered's outgoing chief Peter Sands paid $5.1 million in 2014",
+    "sentiment score": -0.1
+  },
+  {
+    "UniqueID": "233_Glencore",
+    "id": 1380,
+    "company": "Glencore",
+    "title": "Glencore 2014 profit in line, takes $1.1 billion impairment charge on commodity ...",
+    "sentiment score": 0
+  },
+  {
+    "UniqueID": "751_BHP",
+    "id": 1381,
+    "company": "BHP Billiton",
+    "title": "BHP, Glencore Head Tumbling Miners as Commodity Rout Deepens",
+    "sentiment score": -0.518
+  },
+  {
+    "UniqueID": "1063_Admiral Group plc",
+    "id": 1382,
+    "company": "Admiral Group plc",
+    "title": "Are Aviva plc, Direct Line Insurance Group PLC And Admiral Group plc Set To Soar?",
+    "sentiment score": 0.319
+  },
+  {
+    "UniqueID": "244_Friends Life",
+    "id": 1383,
+    "company": "Friends Life",
+    "title": "Aviva, Friends Life top forecasts ahead of 5.6 billion pound merger",
+    "sentiment score": 0.39
+  },
+  {
+    "UniqueID": "40_Royal Dutch Shell",
+    "id": 1384,
+    "company": "Royal Dutch Shell",
+    "title": "Royal Dutch Shell profit rises; dividend up 4%",
+    "sentiment score": 0.65
+  },
+  {
+    "UniqueID": "1106_Shell",
+    "id": 1385,
+    "company": "Shell",
+    "title": "Shell Plans to Shed 2800 Jobs After Buying BG Group",
+    "sentiment score": -0.451
+  },
+  {
+    "UniqueID": "275_AstraZeneca",
+    "id": 1386,
+    "company": "AstraZeneca",
+    "title": "AstraZeneca And Daiichi Sankyo To Jointly Commercialise MOVANTIK In The US",
+    "sentiment score": 0.275
+  },
+  {
+    "UniqueID": "459_MillerCoors",
+    "id": 1387,
+    "company": "MillerCoors",
+    "title": "MillerCoors Board Names Gavin Hattersley Interim CEO",
+    "sentiment score": 0
+  },
+  {
+    "UniqueID": "1690_Morrisons",
+    "id": 1388,
+    "company": "Morrisons",
+    "title": "CompaniesMorrisons CEO survives rebellion over pay",
+    "sentiment score": -0.115
+  },
+  {
+    "UniqueID": "1118_AstraZeneca",
+    "id": 1389,
+    "company": "AstraZeneca",
+    "title": "Why AstraZeneca plc & Dixons Carphone PLC Are Red-Hot Growth Stars!",
+    "sentiment score": 0.934
+  },
+  {
+    "UniqueID": "496_Johnson Matthey",
+    "id": 1390,
+    "company": "Johnson Matthey",
+    "title": "Johnson Matthey sells research chemicals unit to Thermo Scientific",
+    "sentiment score": 0.273
+  },
+  {
+    "UniqueID": "1412_Prudential",
+    "id": 1391,
+    "company": "Prudential",
+    "title": "Britain's FTSE gets lift from Prudential results",
+    "sentiment score": 0.582
+  },
+  {
+    "UniqueID": "159_MillerCoors",
+    "id": 1392,
+    "company": "MillerCoors",
+    "title": "MillerCoors Delivers 2.9% Underlying Net Income Growth for 2014",
+    "sentiment score": 0.495
+  },
+  {
+    "UniqueID": "1036_Volkswagen",
+    "id": 1393,
+    "company": "Volkswagen",
+    "title": "Germany lags European share rally as Volkswagen scandal widens",
+    "sentiment score": -0.803
+  },
+  {
+    "UniqueID": "153_Standard Chartered",
+    "id": 1394,
+    "company": "Standard Chartered PLC",
+    "title": "Standard Chartered lags on capital worries",
+    "sentiment score": -0.358
+  },
+  {
+    "UniqueID": "1203_BG",
+    "id": 1395,
+    "company": "BG Group",
+    "title": "Investors Remain Skeptical About Shell-BG Deal",
+    "sentiment score": -0.421
+  },
+  {
+    "UniqueID": "1634_London Stock Exchange",
+    "id": 1396,
+    "company": "London Stock Exchange Group",
+    "title": "London Stock Exchange â€“ Deutsche Boerse merger under threat from Brexit",
+    "sentiment score": -0.421
+  },
+  {
+    "UniqueID": "1604_Whitbread",
+    "id": 1397,
+    "company": "Whitbread",
+    "title": "Whitbread buys 49% stake in Pure food chain",
+    "sentiment score": 0.365
+  },
+  {
+    "UniqueID": "1096_Yorkshire",
+    "id": 1398,
+    "company": "Yorkshire",
+    "title": "Clydesdale and Yorkshire moves closer to independence",
+    "sentiment score": 0.279
+  },
+  {
+    "UniqueID": "1425_ICE",
+    "id": 1399,
+    "company": "ICE",
+    "title": "ICE Said to Start Lining Up Financing for LSE Bidding War",
+    "sentiment score": 0.243
+  },
+  {
+    "UniqueID": "627_LloydsPharmacy",
+    "id": 1400,
+    "company": "LloydsPharmacy",
+    "title": "Sainsbury sells unit to LloydsPharmacy",
+    "sentiment score": 0.159
+  },
+  {
+    "UniqueID": "1394_Aviva",
+    "id": 1401,
+    "company": "Aviva plc",
+    "title": "Aviva posts forecast-beating 2015 operating profit of $3.8 bln",
+    "sentiment score": 0.946
+  },
+  {
+    "UniqueID": "741_Shire",
+    "id": 1402,
+    "company": "Shire",
+    "title": "Shire proposes $30 bln all-share tie-up with Baxalta",
+    "sentiment score": 0.22
+  },
+  {
+    "UniqueID": "538_Royal Mail",
+    "id": 1403,
+    "company": "Royal Mail",
+    "title": "UPDATE 1-Britain raises $1.2 bln from Royal Mail stake sale",
+    "sentiment score": -0.114
+  },
+  {
+    "UniqueID": "1495_Shell",
+    "id": 1404,
+    "company": "Shell",
+    "title": "Shell eyes $700 million exit from Gabon - sources",
+    "sentiment score": 0.562
+  },
+  {
+    "UniqueID": "1126_Barclays",
+    "id": 1405,
+    "company": "Barclays",
+    "title": "Industry NewsBarclays to 'cut investment bank staff by another 20%'",
+    "sentiment score": -0.667
+  },
+  {
+    "UniqueID": "547_Johnson Matthey",
+    "id": 1406,
+    "company": "Johnson Matthey",
+    "title": "Johnson Matthey share price slumps as company posts full-year results",
+    "sentiment score": -0.626
+  },
+  {
+    "UniqueID": "479_AstraZeneca",
+    "id": 1407,
+    "company": "AstraZeneca",
+    "title": "AstraZeneca to invest $285 mln in Swedish plant",
+    "sentiment score": 0.252
+  },
+  {
+    "UniqueID": "640_Britvic",
+    "id": 1408,
+    "company": "Britvic",
+    "title": "Britvic steps up overseas expansion with Brazilian acquisition",
+    "sentiment score": 0.344
+  },
+  {
+    "UniqueID": "396_Sainsbury",
+    "id": 1409,
+    "company": "Sainsbury's",
+    "title": "CompaniesSainsbury shares firm despite pre-tax loss",
+    "sentiment score": 0.126
+  },
+  {
+    "UniqueID": "698_BP",
+    "id": 1410,
+    "company": "BP",
+    "title": "US judge upholds gas market manipulation charge against BP",
+    "sentiment score": -0.402
+  },
+  {
+    "UniqueID": "1658_Standard Chartered",
+    "id": 1411,
+    "company": "Standard Chartered",
+    "title": "HSBC, Standard Chartered Lead Asia Bank Rout as U.K. Votes 'Out'",
+    "sentiment score": -0.524
+  },
+  {
+    "UniqueID": "825_Morrisons",
+    "id": 1412,
+    "company": "Morrisons",
+    "title": "Morrisons share price: CEO raises shareholding",
+    "sentiment score": 0.23
+  },
+  {
+    "UniqueID": "955_Royal Bank of Scotland",
+    "id": 1413,
+    "company": "Royal Bank of Scotland",
+    "title": "Royal Bank of Scotland becomes Facebook customer",
+    "sentiment score": 0.25
+  },
+  {
+    "UniqueID": "387_Persimmon",
+    "id": 1414,
+    "company": "Persimmon",
+    "title": "Persimmon makes strong start, but notes pre-election uncertainty",
+    "sentiment score": 0.305
+  },
+  {
+    "UniqueID": "1369_Kingfisher",
+    "id": 1415,
+    "company": "Kingfisher",
+    "title": "Britain's FTSE advances as investors cheer Kingfisher results",
+    "sentiment score": 0.611
+  },
+  {
+    "UniqueID": "265_Lloyds",
+    "id": 1416,
+    "company": "Lloyds Banking Group PLC",
+    "title": "UK to raise 9 billion pounds through Lloyds share sales",
+    "sentiment score": 0.137
+  },
+  {
+    "UniqueID": "601_AstraZeneca",
+    "id": 1417,
+    "company": "AstraZeneca",
+    "title": "FDA Approves AstraZeneca's Iressa As Lung Cancer Treatment",
+    "sentiment score": 0.42
+  },
+  {
+    "UniqueID": "1742_Deutsche BÃ¶rse",
+    "id": 1418,
+    "company": "Deutsche Boerse",
+    "title": "London Stock Exchange Shareholders Approve Merger With Deutsche BÃ¶rse",
+    "sentiment score": 0.344
+  },
+  {
+    "UniqueID": "539_Sainsbury",
+    "id": 1419,
+    "company": "Sainsbury's",
+    "title": "Sainsbury sales slip again as price pressures take a toll",
+    "sentiment score": -0.303
+  },
+  {
+    "UniqueID": "639_AstraZeneca",
+    "id": 1420,
+    "company": "AstraZeneca",
+    "title": "AstraZeneca beats profit forecasts, helped by external deals",
+    "sentiment score": 0.566
+  },
+  {
+    "UniqueID": "761_Baxalta",
+    "id": 1421,
+    "company": "Baxalta",
+    "title": "Drugmaker Shire bids $30 bln for Baxter spin-off Baxalta",
+    "sentiment score": 0.314
+  },
+  {
+    "UniqueID": "1418_Costa",
+    "id": 1422,
+    "company": "Costa",
+    "title": "Industry NewsWhitbread sales sink in fourth quarter on Costa slowdown",
+    "sentiment score": -0.457
+  },
+  {
+    "UniqueID": "195_AstraZeneca",
+    "id": 1423,
+    "company": "AstraZeneca",
+    "title": "AstraZeneca two-in-one drug succeeds in lung disease test",
+    "sentiment score": 0.576
+  },
+  {
+    "UniqueID": "827_Glencore",
+    "id": 1424,
+    "company": "Glencore",
+    "title": "Glencore slumps 30 percent as debt fears grow",
+    "sentiment score": -0.781
+  },
+  {
+    "UniqueID": "515_Royal Mail",
+    "id": 1425,
+    "company": "Royal Mail",
+    "title": "UPDATE 1-Britain to review Royal Mail regulation after rival exits market",
+    "sentiment score": -0.1
+  },
+  {
+    "UniqueID": "146_Berkshire Hathaway",
+    "id": 1426,
+    "company": "Berkshire Hathaway",
+    "title": "Warren Buffett vows never to spin off Berkshire Hathaway subsidiaries",
+    "sentiment score": -0.285
+  },
+  {
+    "UniqueID": "1024_ZS Pharma",
+    "id": 1427,
+    "company": "ZS Pharma",
+    "title": "AstraZeneca to Buy ZS Pharma for $2.7 Billion",
+    "sentiment score": 0.593
+  },
+  {
+    "UniqueID": "100_Weir",
+    "id": 1428,
+    "company": "Weir Group",
+    "title": "Slump in Weir leads FTSE down from record high",
+    "sentiment score": -0.827
+  },
+  {
+    "UniqueID": "368_AstraZeneca",
+    "id": 1429,
+    "company": "AstraZeneca",
+    "title": "AstraZeneca immune system drug wins orphan status in rare cancer",
+    "sentiment score": 0.394
+  },
+  {
+    "UniqueID": "484_Tesco",
+    "id": 1430,
+    "company": "Tesco PLC",
+    "title": "Tesco set to put mobile unit for sale - FT",
+    "sentiment score": 0.071
+  },
+  {
+    "UniqueID": "686_Rio Tinto",
+    "id": 1431,
+    "company": "Rio Tinto",
+    "title": "Rio Tinto CEO says iron ore market at equilibrium",
+    "sentiment score": 0
+  },
+  {
+    "UniqueID": "449_Cypress Semiconductor",
+    "id": 1432,
+    "company": "Cypress Semiconductor",
+    "title": "UPDATE 1-Cypress Semiconductor offers to buy Integrated Silicon Solution",
+    "sentiment score": 0.306
+  },
+  {
+    "UniqueID": "1466_Barclays",
+    "id": 1433,
+    "company": "Barclays",
+    "title": "Barclays in Talks With AnaCap to Sell French Consumer Operations",
+    "sentiment score": 0.211
+  },
+  {
+    "UniqueID": "1122_Comcast",
+    "id": 1434,
+    "company": "Comcast",
+    "title": "ITV share price jumps on report of Comcast's NBCUniversal bidding to takeover ...",
+    "sentiment score": 0.623
+  },
+  {
+    "UniqueID": "593_InterContinental",
+    "id": 1435,
+    "company": "InterContinental Hotels Group",
+    "title": "InterContinental Hotels Denies Reports of Starwood Merger Talks",
+    "sentiment score": -0.007
+  },
+  {
+    "UniqueID": "1373_Tesco",
+    "id": 1436,
+    "company": "Tesco PLC",
+    "title": "Tesco breaks its downward slide by cutting sales decline in half",
+    "sentiment score": 0.172
+  },
+  {
+    "UniqueID": "1365_Intertek",
+    "id": 1437,
+    "company": "Intertek Group",
+    "title": "Intertek swings to Â£347 mln loss on oil's slump",
+    "sentiment score": -0.734
+  },
+  {
+    "UniqueID": "1443_Shell",
+    "id": 1438,
+    "company": "Shell",
+    "title": "Saudi Aramco, Shell plan to break up Motiva, divide up assets",
+    "sentiment score": -0.102
+  },
+  {
+    "UniqueID": "1571_RBS",
+    "id": 1439,
+    "company": "Royal Bank of Scotland Group plc",
+    "title": "RBS set to close two branches in the region this August",
+    "sentiment score": -0.271
+  },
+  {
+    "UniqueID": "693_CR Laurence",
+    "id": 1440,
+    "company": "CR Laurence",
+    "title": "CRH adds CR Laurence to acquisitions tally for $1.3bn",
+    "sentiment score": 0.259
+  },
+  {
+    "UniqueID": "1187_Direct Line",
+    "id": 1441,
+    "company": "Direct Line Insurance Group PLC",
+    "title": "Direct Line expects claims of Â£110-140 million from three storms",
+    "sentiment score": -0.367
+  },
+  {
+    "UniqueID": "343_BAE",
+    "id": 1442,
+    "company": "BAE Systems",
+    "title": "BAE may sell part of US intelligence and security business",
+    "sentiment score": 0.102
+  },
+  {
+    "UniqueID": "494_AstraZeneca",
+    "id": 1443,
+    "company": "AstraZeneca",
+    "title": "AstraZeneca R&D boss Briggs Morrison leaves to head private drugmaker",
+    "sentiment score": -0.121
+  },
+  {
+    "UniqueID": "1136_Shell",
+    "id": 1444,
+    "company": "Shell",
+    "title": "Oil Giant Shell to Cut Around 2800 Jobs Amid BG Takeover",
+    "sentiment score": -0.564
+  },
+  {
+    "UniqueID": "1669_AB InBev",
+    "id": 1445,
+    "company": "AB InBev",
+    "title": "Asahi could be about to snap up more of SABMiller's beers ahead of AB InBev sale",
+    "sentiment score": 0.103
+  },
+  {
+    "UniqueID": "1677_WPP",
+    "id": 1446,
+    "company": "WPP",
+    "title": "WPP shareholders should oppose company on pay at AGM - PIRC",
+    "sentiment score": -0.243
+  },
+  {
+    "UniqueID": "323_RBS",
+    "id": 1447,
+    "company": "Royal Bank of Scotland Group plc",
+    "title": "Warning as RBS slumps to Â£446m loss",
+    "sentiment score": -0.782
+  },
+  {
+    "UniqueID": "98_Reed Elsevier",
+    "id": 1448,
+    "company": "Reed Elsevier",
+    "title": "Reed Elsevier share price slides on underwhelming full-year results",
+    "sentiment score": -0.526
+  },
+  {
+    "UniqueID": "1155_L&G",
+    "id": 1449,
+    "company": "L&G",
+    "title": "L&G completes UK's largest medically underwritten bulk pension risk deal",
+    "sentiment score": 0.25
+  },
+  {
+    "UniqueID": "1499_CaixaBank",
+    "id": 1450,
+    "company": "CaixaBank",
+    "title": "BPI Says Caixabank, Isabel dos Santos Reach Agreement Over Angola Exposure",
+    "sentiment score": 0.243
+  },
+  {
+    "UniqueID": "705_Barclays",
+    "id": 1451,
+    "company": "Barclays",
+    "title": "Barclays sees Fed rate hike in early 2016",
+    "sentiment score": -0.321
+  },
+  {
+    "UniqueID": "200_Legal & General",
+    "id": 1452,
+    "company": "Legal & General Group Plc",
+    "title": "Legal & General eyes company deals as individual annuities wither",
+    "sentiment score": -0.098
+  },
+  {
+    "UniqueID": "655_ITV",
+    "id": 1453,
+    "company": "ITV",
+    "title": "CompaniesITV's audience numbers fall to lowest in 15 years",
+    "sentiment score": -0.585
+  },
+  {
+    "UniqueID": "128_ConAgra",
+    "id": 1454,
+    "company": "ConAgra",
+    "title": "ConAgra Names Former Hillshire Farms CEO Connolly to Top Post",
+    "sentiment score": 0.101
+  },
+  {
+    "UniqueID": "908_AB InBev",
+    "id": 1455,
+    "company": "AB InBev",
+    "title": "AB InBev offers SABMiller $3 billion breakup fee",
+    "sentiment score": -0.015
+  },
+  {
+    "UniqueID": "1359_London Stock Exchange",
+    "id": 1456,
+    "company": "London Stock Exchange Group",
+    "title": "London Stock Exchange boosts FTSE on new bid hopes",
+    "sentiment score": 0.743
+  },
+  {
+    "UniqueID": "806_Glencore",
+    "id": 1457,
+    "company": "Glencore",
+    "title": "Glencore has a mogul in denial",
+    "sentiment score": -0.206
+  },
+  {
+    "UniqueID": "450_Land Securities",
+    "id": 1458,
+    "company": "Land Securities",
+    "title": "Land Securities share price: group reveals strong full-year results",
+    "sentiment score": 0.74
+  },
+  {
+    "UniqueID": "838_Glencore",
+    "id": 1459,
+    "company": "Glencore",
+    "title": "FTSE 100 drops 2.5 pct on Glencore, metals price fears",
+    "sentiment score": -0.597
+  },
+  {
+    "UniqueID": "866_Glencore",
+    "id": 1460,
+    "company": "Glencore",
+    "title": "Copper market may get a 2003-style supply shock from Glencore closures",
+    "sentiment score": -0.571
+  },
+  {
+    "UniqueID": "1562_Krispy Kreme",
+    "id": 1461,
+    "company": "Krispy Kreme",
+    "title": "Krispy Kreme bring delicious doughnuts to Maryhill Tesco in Glasgow",
+    "sentiment score": 0.1
+  },
+  {
+    "UniqueID": "1679_Amazon",
+    "id": 1462,
+    "company": "Amazon",
+    "title": "Jim Armitage: Amazon is Primed to deliver pain to grocery's old guard",
+    "sentiment score": 0.188
+  },
+  {
+    "UniqueID": "562_Lloyds",
+    "id": 1463,
+    "company": "Lloyds Banking Group PLC",
+    "title": "3p PPI payout for Lloyds customer",
+    "sentiment score": 0.068
+  },
+  {
+    "UniqueID": "1308_HSBC",
+    "id": 1464,
+    "company": "HSBC",
+    "title": "HSBC Reaches $470 Million Accord Over Foreclosure Abuses",
+    "sentiment score": -0.835
+  },
+  {
+    "UniqueID": "590_Johnson Matthey",
+    "id": 1465,
+    "company": "Johnson Matthey",
+    "title": "Johnson Matthey raises prospect of investor payout",
+    "sentiment score": 0.281
+  },
+  {
+    "UniqueID": "1032_AstraZeneca",
+    "id": 1466,
+    "company": "AstraZeneca",
+    "title": "UPDATE 1-AstraZeneca buys ZS Pharma for $2.7 billion, pips Actelion",
+    "sentiment score": 0.524
+  },
+  {
+    "UniqueID": "1227_J Sainsbury plc",
+    "id": 1467,
+    "company": "J Sainsbury plc",
+    "title": "Why I Would Put J Sainsbury plc In My Trolley Before Wm Morrison Supermarkets ...",
+    "sentiment score": 0.764
+  },
+  {
+    "UniqueID": "93_Tesco",
+    "id": 1468,
+    "company": "Tesco PLC",
+    "title": "Tesco store closures herald broader property overhaul",
+    "sentiment score": -0.109
+  },
+  {
+    "UniqueID": "258_Daiichi Sankyo",
+    "id": 1469,
+    "company": "Daiichi Sankyo",
+    "title": "AstraZeneca Teams With Daiichi Sankyo To Sell Movantik In US",
+    "sentiment score": 0.364
+  },
+  {
+    "UniqueID": "1330_Barclays",
+    "id": 1470,
+    "company": "Barclays",
+    "title": "Next Barclays Investment Banking Chief May Signal Staley's Strategy",
+    "sentiment score": 0
+  },
+  {
+    "UniqueID": "1441_Old Mutual",
+    "id": 1471,
+    "company": "Old Mutual",
+    "title": "Old Mutual shares soar on break-up report",
+    "sentiment score": 0.911
+  },
+  {
+    "UniqueID": "1426_BP",
+    "id": 1472,
+    "company": "BP",
+    "title": "BP, Statoil, to Withdraw Staff From Algeria Following Rocket Attack",
+    "sentiment score": -0.226
+  },
+  {
+    "UniqueID": "334_Centrica",
+    "id": 1473,
+    "company": "Centrica PLC",
+    "title": "Higher energy consumption fails to lift Centrica's Q1 results",
+    "sentiment score": -0.367
+  },
+  {
+    "UniqueID": "499_RBS",
+    "id": 1474,
+    "company": "Royal Bank of Scotland Group plc",
+    "title": "S&P downgrades Barclays and RBS on government bailout fears",
+    "sentiment score": -0.53
+  },
+  {
+    "UniqueID": "643_AstraZeneca",
+    "id": 1475,
+    "company": "AstraZeneca",
+    "title": "AstraZeneca share price: Crohn's Disease drug divested for $215m",
+    "sentiment score": -0.027
+  },
+  {
+    "UniqueID": "1430_WWP",
+    "id": 1476,
+    "company": "WWP",
+    "title": "WPP Chief Projects Tough Ad Market as Customers Avoid Risks",
+    "sentiment score": -0.407
+  },
+  {
+    "UniqueID": "1751_Easyjet",
+    "id": 1477,
+    "company": "EasyJet",
+    "title": "EasyJet Seeks EU Operating Certificate as Brexit Workaround",
+    "sentiment score": 0
+  },
+  {
+    "UniqueID": "1439_Smiths Group",
+    "id": 1478,
+    "company": "Smiths Group",
+    "title": "CompaniesSmiths Group profits plumped by security scanners",
+    "sentiment score": -0.408
+  },
+  {
+    "UniqueID": "477_Gazprom",
+    "id": 1479,
+    "company": "Gazprom",
+    "title": "Centrica extends gas deals with Gazprom, Statoil",
+    "sentiment score": 0.199
+  },
+  {
+    "UniqueID": "1585_BHP",
+    "id": 1480,
+    "company": "BHP Billiton",
+    "title": "European stocks hover near 3-week low, Dialog and BHP slump",
+    "sentiment score": -0.631
+  },
+  {
+    "UniqueID": "937_Barclays",
+    "id": 1481,
+    "company": "Barclays",
+    "title": "Barclays share price: Chairman 'perfectly comfortable' with ring-fencing rules",
+    "sentiment score": 0.139
+  },
+  {
+    "UniqueID": "1211_SunRay",
+    "id": 1482,
+    "company": "SunRay",
+    "title": "SunRay Cuts Jobs as New Hampshire Reaches Cap on Solar Incentive",
+    "sentiment score": -0.67
+  },
+  {
+    "UniqueID": "1189_Aberdeen",
+    "id": 1483,
+    "company": "Aberdeen Asset Management",
+    "title": "Aberdeen sees more investors pull cash in the December quarter",
+    "sentiment score": -0.526
+  },
+  {
+    "UniqueID": "1019_United Utilities",
+    "id": 1484,
+    "company": "United Utilities",
+    "title": "CompaniesUnited Utilities H1 profits just miss expectations",
+    "sentiment score": -0.37
+  },
+  {
+    "UniqueID": "945_BHP Billiton",
+    "id": 1485,
+    "company": "BHP Billiton",
+    "title": "Why I'd Buy ARM Holdings plc And BHP Billiton plc Today",
+    "sentiment score": 0.424
+  },
+  {
+    "UniqueID": "228_Standard Chartered",
+    "id": 1486,
+    "company": "Standard Chartered PLC",
+    "title": "New management bring rights issue risk at Standard Charteredâ€",
+    "sentiment score": -0.048
+  },
+  {
+    "UniqueID": "420_Tesco",
+    "id": 1487,
+    "company": "Tesco",
+    "title": "Tesco names Deloitte as new auditor after accounting scandal",
+    "sentiment score": -0.452
+  },
+  {
+    "UniqueID": "1505_Tesco",
+    "id": 1488,
+    "company": "Tesco PLC",
+    "title": "Tesco returns to profit, but City demands more",
+    "sentiment score": 0.218
+  },
+  {
+    "UniqueID": "1735_Great Portland Estates plc",
+    "id": 1489,
+    "company": "Great Portland Estates plc",
+    "title": "Should you buy Associated British Foods plc, Great Portland Estates plc and Dunelm Group plc following today's news?",
+    "sentiment score": 0.165
+  },
+  {
+    "UniqueID": "614_Zurich Insurance",
+    "id": 1490,
+    "company": "Zurich Insurance",
+    "title": "Zurich Insurance Considering Offer for UK Rival RSA Insurance",
+    "sentiment score": 0.25
+  },
+  {
+    "UniqueID": "906_RBS",
+    "id": 1491,
+    "company": "RBS",
+    "title": "ABN Amro: Bank that brought down RBS poised for return to the market",
+    "sentiment score": 0.2
+  },
+  {
+    "UniqueID": "436_Shell",
+    "id": 1492,
+    "company": "Shell",
+    "title": "Shell's Arctic return faces hurdle at Seattle port",
+    "sentiment score": -0.261
+  },
+  {
+    "UniqueID": "86_Imperial Tobacco",
+    "id": 1493,
+    "company": "Imperial Tobacco",
+    "title": "Imperial Tobacco launches caffeinated mouth strips",
+    "sentiment score": 0.08
+  },
+  {
+    "UniqueID": "41_Deutsche Telekom",
+    "id": 1494,
+    "company": "Deutsche Telekom",
+    "title": "Deutsche Telekom to Spend $27 Billion on Network in Germany",
+    "sentiment score": 0.262
+  },
+  {
+    "UniqueID": "1133_Takeda",
+    "id": 1495,
+    "company": "Takeda",
+    "title": "UPDATE 1-AstraZeneca boosts respiratory unit with $575 mln Takeda deal",
+    "sentiment score": 0.47
+  },
+  {
+    "UniqueID": "507_Arm",
+    "id": 1496,
+    "company": "ARM Holdings plc",
+    "title": "Arm slammed by handset sales outlook",
+    "sentiment score": -0.41
+  },
+  {
+    "UniqueID": "274_Aviva",
+    "id": 1497,
+    "company": "Aviva plc",
+    "title": "Insurers: Admiral blows hot and cold but Aviva soars pre-Friends Life merger",
+    "sentiment score": 0.548
+  },
+  {
+    "UniqueID": "781_Glencore",
+    "id": 1498,
+    "company": "Glencore",
+    "title": "Glencore taps investors for $2.5bn",
+    "sentiment score": -0.3
+  },
+  {
+    "UniqueID": "1638_Intertain",
+    "id": 1499,
+    "company": "Intertain",
+    "title": "Intertain considers London listing",
+    "sentiment score": 0.169
+  },
+  {
+    "UniqueID": "1230_Dixons Carphone",
+    "id": 1500,
+    "company": "Dixons Carphone",
+    "title": "CompaniesDixons Carphone to close 134 UK stores as sales jump",
+    "sentiment score": 0.144
+  },
+  {
+    "UniqueID": "594_Barclays",
+    "id": 1501,
+    "company": "Barclays",
+    "title": "REFILE-Hikma and Barclays help Britain's FTSE to climb higher",
+    "sentiment score": 0.457
+  },
+  {
+    "UniqueID": "994_AstraZeneca",
+    "id": 1502,
+    "company": "AstraZeneca",
+    "title": "AstraZeneca lupus drug cuts disease activity in mid-stage trial",
+    "sentiment score": 0.499
+  },
+  {
+    "UniqueID": "796_Morrissons",
+    "id": 1503,
+    "company": "Morrissons",
+    "title": "Morrisons reveals the 11 supermarkets facing closure at the expense of 900 jobs",
+    "sentiment score": -0.2
+  },
+  {
+    "UniqueID": "499_Barclays",
+    "id": 1504,
+    "company": "Barclays",
+    "title": "S&P downgrades Barclays and RBS on government bailout fears",
+    "sentiment score": -0.52
+  },
+  {
+    "UniqueID": "1021_BHP",
+    "id": 1505,
+    "company": "BHP",
+    "title": "BHP names chairman, board members to oversee Samarco disaster",
+    "sentiment score": -0.422
+  },
+  {
+    "UniqueID": "79_Carnival Corporation",
+    "id": 1506,
+    "company": "Carnival Corporation",
+    "title": "Carnival Corporation Launches Shipboard Mobile Gaming Solution For Mid ...",
+    "sentiment score": 0.187
+  },
+  {
+    "UniqueID": "1120_Wilshire Bancorp",
+    "id": 1507,
+    "company": "Wilshire Bancorp",
+    "title": "BBCN Bancorp to buy Wilshire Bancorp in $1 bln deal",
+    "sentiment score": 0.818
+  },
+  {
+    "UniqueID": "257_Heinz",
+    "id": 1508,
+    "company": "Heinz",
+    "title": "How Kraft-Heinz Merger Came Together in Speedy 10 Weeks",
+    "sentiment score": 0.206
+  },
+  {
+    "UniqueID": "712_HSBC",
+    "id": 1509,
+    "company": "HSBC",
+    "title": "HSBC selling unprofitable Brazil unit to Bradesco for $5.2 billion",
+    "sentiment score": 0.182
+  },
+  {
+    "UniqueID": "1536_Uinilever",
+    "id": 1510,
+    "company": "Unilever",
+    "title": "Volumes up and turnover down at Unilever",
+    "sentiment score": 0.114
+  },
+  {
+    "UniqueID": "246_Citigroup",
+    "id": 1511,
+    "company": "Citigroup",
+    "title": "Citigroup to Sell OneMain to Springleaf for $4.25 Billion",
+    "sentiment score": 0.234
+  },
+  {
+    "UniqueID": "1077_Tesco",
+    "id": 1512,
+    "company": "Tesco PLC",
+    "title": "Sainsbury's, Asda, Tesco and Morrisons will all cut petrol prices as oil falls ...",
+    "sentiment score": -0.222
+  },
+  {
+    "UniqueID": "1759_Shell",
+    "id": 1513,
+    "company": "Shell",
+    "title": "Exclusive - Shell CEO warns Brexit could slow $30 billion asset sale plan",
+    "sentiment score": -0.509
+  },
+  {
+    "UniqueID": "262_Sainsbury",
+    "id": 1514,
+    "company": "Sainsbury's",
+    "title": "Sainsbury's share price: Supermarket pushes ahead with Netto roll-out",
+    "sentiment score": 0.264
+  },
+  {
+    "UniqueID": "500_Old Mutual",
+    "id": 1515,
+    "company": "Old Mutual",
+    "title": "Gross Wins Back $272 Million Fund as Old Mutual Keeps Faith",
+    "sentiment score": 0.275
+  },
+  {
+    "UniqueID": "1243_Tesco",
+    "id": 1516,
+    "company": "Tesco PLC",
+    "title": "Britain's FTSE outperforms Europe, Royal Mail and Tesco rise",
+    "sentiment score": 0.439
+  },
+  {
+    "UniqueID": "1511_BP",
+    "id": 1517,
+    "company": "BP",
+    "title": "Bob Dudley's 20% pay rise at BP is a bit rich",
+    "sentiment score": -0.166
+  },
+  {
+    "UniqueID": "1727_Barclays",
+    "id": 1518,
+    "company": "Barclays",
+    "title": "Three former Barclays traders found guilty in Libor rigging trial",
+    "sentiment score": -0.609
+  },
+  {
+    "UniqueID": "1730_Barclays",
+    "id": 1519,
+    "company": "Barclays",
+    "title": "3 ex-Barclays traders convicted over Libor rigging",
+    "sentiment score": -0.611
+  },
+  {
+    "UniqueID": "921_BP",
+    "id": 1520,
+    "company": "BP",
+    "title": "Climate qualms mean oil will never be used up - BP",
+    "sentiment score": 0.144
+  },
+  {
+    "UniqueID": "267_Tesco",
+    "id": 1521,
+    "company": "Tesco",
+    "title": "Tesco's Dunnhumby: Is Sir Martin Sorrell's WPP about to take a stake in the ...",
+    "sentiment score": 0
+  },
+  {
+    "UniqueID": "919_Tesco",
+    "id": 1522,
+    "company": "Tesco PLC",
+    "title": "Tesco PLC's Recovery Continues With A Â£250m Cash Infusion",
+    "sentiment score": 0.337
+  },
+  {
+    "UniqueID": "665_BHP",
+    "id": 1523,
+    "company": "BHP Billiton",
+    "title": "Miners Meltdown as BHP to Rio Tinto Sink in Commodities Rout",
+    "sentiment score": -0.646
+  },
+  {
+    "UniqueID": "1516_Shire",
+    "id": 1524,
+    "company": "Shire",
+    "title": "Shire Sees Baxalta Deal Closing as Expected After New Rules",
+    "sentiment score": 0.224
+  },
+  {
+    "UniqueID": "731_BHP",
+    "id": 1525,
+    "company": "BHP Billiton",
+    "title": "UPDATE 2-BHP Billiton profit dives to 10-year low on commodities rout",
+    "sentiment score": -0.754
+  },
+  {
+    "UniqueID": "1463_ITV",
+    "id": 1526,
+    "company": "ITV",
+    "title": "ITV share price: Group mulls takeover of Canada's Entertainment One",
+    "sentiment score": 0.422
+  },
+  {
+    "UniqueID": "169_Tesco",
+    "id": 1527,
+    "company": "Tesco",
+    "title": "City shock as John Allan beats Archie Norman to Tesco chair",
+    "sentiment score": -0.293
+  },
+  {
+    "UniqueID": "1053_SABMiller",
+    "id": 1528,
+    "company": "SABMiller",
+    "title": "UPDATE 1-SABMiller 2nd-quarter underlying sales rise, forex impacts margins",
+    "sentiment score": 0.043
+  },
+  {
+    "UniqueID": "1243_Royal Mail",
+    "id": 1529,
+    "company": "Royal Mail",
+    "title": "Britain's FTSE outperforms Europe, Royal Mail and Tesco rise",
+    "sentiment score": 0.439
+  },
+  {
+    "UniqueID": "1356_LSE",
+    "id": 1530,
+    "company": "London Stock Exchange Group",
+    "title": "News FeedFTSE 100 movers: LSE surges as ICE says mulling offer; Ashtead and Barclays tank",
+    "sentiment score": 0.843
+  },
+  {
+    "UniqueID": "948_Barclays",
+    "id": 1531,
+    "company": "Barclays",
+    "title": "Barclays shares dive as plan for ring-fencing costs extra Â£1 billion",
+    "sentiment score": -0.693
+  },
+  {
+    "UniqueID": "548_Barclays",
+    "id": 1532,
+    "company": "Barclays",
+    "title": "UPDATE: Barclays Expects Gain After Settling With Lehman Bros Trustee",
+    "sentiment score": 0.199
+  },
+  {
+    "UniqueID": "183_Tesco",
+    "id": 1533,
+    "company": "Tesco PLC",
+    "title": "Tesco shareholders back ITV head for chairman",
+    "sentiment score": 0.139
+  },
+  {
+    "UniqueID": "622_Coutts",
+    "id": 1534,
+    "company": "Coutts",
+    "title": "Ingenious, HSBC, UBS and Coutts sued by 'tax avoidance' clients",
+    "sentiment score": -0.248
+  },
+  {
+    "UniqueID": "264_Credit Suisse",
+    "id": 1535,
+    "company": "Credit Suisse",
+    "title": "Credit Suisse poaches Prudential's Thiam for Asian push",
+    "sentiment score": 0.125
+  },
+  {
+    "UniqueID": "227_HSBC",
+    "id": 1536,
+    "company": "HSBC",
+    "title": "HSBC share price in focus as executives receive call to appear before MPs",
+    "sentiment score": -0.074
+  },
+  {
+    "UniqueID": "713_Glencore",
+    "id": 1537,
+    "company": "Glencore",
+    "title": "Glencore posts 3 pct fall in H1 copper output, cuts capex",
+    "sentiment score": -0.325
+  },
+  {
+    "UniqueID": "1734_Fresnillo",
+    "id": 1538,
+    "company": "Fresnillo",
+    "title": "CompaniesFresnillo shares jump 8% as silver price breaks $21",
+    "sentiment score": 0.874
+  },
+  {
+    "UniqueID": "622_UBS",
+    "id": 1539,
+    "company": "UBS",
+    "title": "Ingenious, HSBC, UBS and Coutts sued by 'tax avoidance' clients",
+    "sentiment score": -0.281
+  },
+  {
+    "UniqueID": "1503_Banco BPI",
+    "id": 1540,
+    "company": "Banco BPI",
+    "title": "Spain's Caixabank launches new takeover bid for Banco BPI",
+    "sentiment score": 0.311
+  },
+  {
+    "UniqueID": "1112_Tesco",
+    "id": 1541,
+    "company": "Tesco PLC",
+    "title": "CompaniesTesco off to a bad start over Xmas â€“ Kantar",
+    "sentiment score": -0.604
+  },
+  {
+    "UniqueID": "1132_Tesco",
+    "id": 1542,
+    "company": "Tesco PLC",
+    "title": "Can Christmas Save Sainsbury's plc And Tesco plc?",
+    "sentiment score": -0.175
+  },
+  {
+    "UniqueID": "1181_Mid Wales",
+    "id": 1543,
+    "company": "Mid Wales",
+    "title": "Shropshire and Mid Wales trains to be hit again in new strike by Arriva drivers",
+    "sentiment score": -0.509
+  },
+  {
+    "UniqueID": "405_Aviva",
+    "id": 1544,
+    "company": "Aviva plc",
+    "title": "Aviva shuts Friends Life head office in rapid integration move",
+    "sentiment score": -0.059
+  },
+  {
+    "UniqueID": "1062_Thomson",
+    "id": 1545,
+    "company": "Thomson",
+    "title": "Sharm el-Sheikh travel disruption: British Airways, EasyJet, Thomson and ...",
+    "sentiment score": -0.6
+  },
+  {
+    "UniqueID": "388_Shell",
+    "id": 1546,
+    "company": "Shell",
+    "title": "Speed of Shell's swoop for BG unusual",
+    "sentiment score": 0.038
+  },
+  {
+    "UniqueID": "1592_Barclays",
+    "id": 1547,
+    "company": "Barclays",
+    "title": "Former Barclays banker pleaded guilty to Libor-rigging offence",
+    "sentiment score": -0.609
+  },
+  {
+    "UniqueID": "32_Blinkbox",
+    "id": 1548,
+    "company": "Blinkbox",
+    "title": "Tesco sells Blinkbox and broadband service to TalkTalk",
+    "sentiment score": 0.039
+  },
+  {
+    "UniqueID": "1360_Centrica PLC",
+    "id": 1549,
+    "company": "Centrica PLC",
+    "title": "Balfour Beatty plc Set To Reinstate Dividend (And Rival National Grid plc And Centrica PLC Once More?)",
+    "sentiment score": 0.403
+  },
+  {
+    "UniqueID": "802_Aggreko",
+    "id": 1550,
+    "company": "Aggreko",
+    "title": "Industry NewsAggreko buys Canada's ICS for Â£18m",
+    "sentiment score": 0.253
+  },
+  {
+    "UniqueID": "896_SAB Miller",
+    "id": 1551,
+    "company": "SABMiller",
+    "title": "SABMiller revenue hit by weaker EM currencies",
+    "sentiment score": -0.439
+  },
+  {
+    "UniqueID": "986_G4S",
+    "id": 1552,
+    "company": "G4S",
+    "title": "G4S slides on balance sheet worries",
+    "sentiment score": -0.593
+  },
+  {
+    "UniqueID": "1232_Royal Dutch",
+    "id": 1553,
+    "company": "Royal Dutch Shell",
+    "title": "Should You Buy Royal Dutch Shell Plc After Its Q4 'Update'?",
+    "sentiment score": 0.083
+  },
+  {
+    "UniqueID": "398_Imperial Tobacco",
+    "id": 1554,
+    "company": "Imperial Tobacco",
+    "title": "Imperial Tobacco Adds Quarterly Dividends After Profit Rose",
+    "sentiment score": 0.336
+  },
+  {
+    "UniqueID": "633_Shell",
+    "id": 1555,
+    "company": "Shell",
+    "title": "CompaniesShell sells stake in Showa Shell Sekiyu for $1.4bn",
+    "sentiment score": 0.218
+  },
+  {
+    "UniqueID": "1239_Sage",
+    "id": 1556,
+    "company": "Sage",
+    "title": "Broker tips: RBS, Croda, Sage",
+    "sentiment score": 0.393
+  },
+  {
+    "UniqueID": "1590_AB InBrev",
+    "id": 1557,
+    "company": "AB InBev",
+    "title": "Australia clears AB Inbev's $100 billion SABMiller buyout plan",
+    "sentiment score": 0.312
+  },
+  {
+    "UniqueID": "32_Tesco",
+    "id": 1558,
+    "company": "Tesco PLC",
+    "title": "Tesco sells Blinkbox and broadband service to TalkTalk",
+    "sentiment score": 0.192
+  },
+  {
+    "UniqueID": "1279_BP",
+    "id": 1559,
+    "company": "BP",
+    "title": "BP reports biggest ever annual loss",
+    "sentiment score": -0.99
+  },
+  {
+    "UniqueID": "310_Schroders",
+    "id": 1560,
+    "company": "Schroders",
+    "title": "Schroders posts profit growth",
+    "sentiment score": 0.505
+  },
+  {
+    "UniqueID": "580_London Stock Exchange Group",
+    "id": 1561,
+    "company": "London Stock Exchange Group",
+    "title": "London Stock Exchange Group appoints Royal Mail's Donald Brydon to replace ...",
+    "sentiment score": 0.141
+  },
+  {
+    "UniqueID": "1069_Old Mutual",
+    "id": 1562,
+    "company": "Old Mutual",
+    "title": "Industry NewsOld Mutual appoints former SA finance minister as non-exec director",
+    "sentiment score": 0.25
+  },
+  {
+    "UniqueID": "1611_Royal Mail",
+    "id": 1563,
+    "company": "Royal Mail",
+    "title": "Royal Mail share price rallies amid positive broker comments",
+    "sentiment score": 0.59
+  },
+  {
+    "UniqueID": "1748_Wells Fargo",
+    "id": 1564,
+    "company": "Wells Fargo",
+    "title": "Berkshire applies to boost Wells Fargo stake above 10 percent",
+    "sentiment score": 0.484
+  },
+  {
+    "UniqueID": "1570_Easyjet",
+    "id": 1565,
+    "company": "Easyjet",
+    "title": "Glasgow EasyJet flight forced to divert because of rowdy passengers' antics",
+    "sentiment score": -0.05
+  },
+  {
+    "UniqueID": "1772_Barclays",
+    "id": 1566,
+    "company": "Barclays",
+    "title": "Barclays Libor verdicts provide much-needed victory for SFO",
+    "sentiment score": -0.638
+  },
+  {
+    "UniqueID": "1012_AstraZeneca",
+    "id": 1567,
+    "company": "AstraZeneca",
+    "title": "AstraZeneca's Lung Cancer Drug Tagrisso Gets FDA Approval",
+    "sentiment score": 0.393
+  },
+  {
+    "UniqueID": "1073_Barclays",
+    "id": 1568,
+    "company": "Barclays",
+    "title": "Barclays sells benchmark indices unit to Bloomberg",
+    "sentiment score": 0.141
+  },
+  {
+    "UniqueID": "859_Tesco",
+    "id": 1569,
+    "company": "Tesco PLC",
+    "title": "Tesco sells South Korean arm to private equity group for $6.1 billion",
+    "sentiment score": 0.25
+  },
+  {
+    "UniqueID": "1272_BAE Systems",
+    "id": 1570,
+    "company": "BAE Systems",
+    "title": "BAE Systems lines up oil executive Woodburn as next CEO - source",
+    "sentiment score": 0.125
+  },
+  {
+    "UniqueID": "1075_L&G",
+    "id": 1571,
+    "company": "L&G",
+    "title": "L&G strikes Â£230m bulk annuity deal",
+    "sentiment score": 0.54
+  },
+  {
+    "UniqueID": "453_BP",
+    "id": 1572,
+    "company": "BP",
+    "title": "Drilling begins 3 miles from epicenter of BP oil spill",
+    "sentiment score": 0.078
+  },
+  {
+    "UniqueID": "231_Barclays",
+    "id": 1573,
+    "company": "Barclays",
+    "title": "Barclays drags FTSE into red as compensation mounts",
+    "sentiment score": -0.625
+  },
+  {
+    "UniqueID": "1289_LSE",
+    "id": 1574,
+    "company": "London Stock Exchange Group",
+    "title": "Merged LSE and Deutsche BÃ¶rse would be led by Germany's Kengeter",
+    "sentiment score": 0.136
+  },
+  {
+    "UniqueID": "122_BP",
+    "id": 1575,
+    "company": "BP",
+    "title": "U.S. Oil-Worker Strike Reaches BP Plants With Talks on Hold",
+    "sentiment score": -0.274
+  },
+  {
+    "UniqueID": "1338_Lloyds Banking Group",
+    "id": 1576,
+    "company": "Lloyds Banking Group PLC",
+    "title": "Lloyds Banking Group reports 7% dip in annual profits",
+    "sentiment score": -0.696
+  },
+  {
+    "UniqueID": "248_PwC",
+    "id": 1577,
+    "company": "PwC",
+    "title": "British American Tobacco drops and sues PwC over pollution scandal",
+    "sentiment score": -0.437
+  },
+  {
+    "UniqueID": "854_Tesco",
+    "id": 1578,
+    "company": "Tesco PLC",
+    "title": "Tesco picks buyout firm MBK as preferred bidder for South Korea unit - sources",
+    "sentiment score": 0.216
+  },
+  {
+    "UniqueID": "914_SAB Miller",
+    "id": 1579,
+    "company": "SABMiller",
+    "title": "AB InBev ups offer for SABMiller as deadline looms",
+    "sentiment score": 0.257
+  },
+  {
+    "UniqueID": "1480_Shire",
+    "id": 1580,
+    "company": "Shire",
+    "title": "Shire share price: Investors stage rebellion over executive pay",
+    "sentiment score": -0.41
+  },
+  {
+    "UniqueID": "1118_Dixons Carphone",
+    "id": 1581,
+    "company": "Dixons Carphone",
+    "title": "Why AstraZeneca plc & Dixons Carphone PLC Are Red-Hot Growth Stars!",
+    "sentiment score": 0.766
+  },
+  {
+    "UniqueID": "388_BG",
+    "id": 1582,
+    "company": "BG Group",
+    "title": "Speed of Shell's swoop for BG unusual",
+    "sentiment score": -0.079
+  },
+  {
+    "UniqueID": "1188_RBS",
+    "id": 1583,
+    "company": "Royal Bank of Scotland Group plc",
+    "title": "RBS Shares Drop After Surprise Pension Charge Cuts Capital",
+    "sentiment score": -0.651
+  },
+  {
+    "UniqueID": "1775_EasyJet",
+    "id": 1584,
+    "company": "EasyJet",
+    "title": "Easyjet in talks with EU governments about moving its headquarters out of the UK",
+    "sentiment score": 0.173
+  },
+  {
+    "UniqueID": "887_Standard Life",
+    "id": 1585,
+    "company": "Standard Life",
+    "title": "Industry NewsStandard Life enjoys strong inflows to lift assets under management",
+    "sentiment score": 0.438
+  },
+  {
+    "UniqueID": "178_Persimmon",
+    "id": 1586,
+    "company": "Persimmon",
+    "title": "UPDATE: Persimmon Profit Up Strongly, Outlook Positive",
+    "sentiment score": 0.937
+  },
+  {
+    "UniqueID": "1680_Standard Life",
+    "id": 1587,
+    "company": "Standard Life",
+    "title": "Standard Life and Old Mutual join CII push to professionalism",
+    "sentiment score": 0.5
+  },
+  {
+    "UniqueID": "1168_Shire",
+    "id": 1588,
+    "company": "Shire",
+    "title": "Shire says internal synergy goals from Baxalta deal higher",
+    "sentiment score": 0.287
+  },
+  {
+    "UniqueID": "1741_Tesco",
+    "id": 1589,
+    "company": "Tesco PLC",
+    "title": "Tesco share price tumbles after negative broker note",
+    "sentiment score": -0.779
+  },
+  {
+    "UniqueID": "807_Tesco",
+    "id": 1590,
+    "company": "Tesco PLC",
+    "title": "MBK Partners closes in on $6bn Tesco Korea deal",
+    "sentiment score": 0.264
+  },
+  {
+    "UniqueID": "1529_Lloyds",
+    "id": 1591,
+    "company": "Lloyds",
+    "title": "Lloyds share price: Lender set to escape steep profit fall",
+    "sentiment score": 0.228
+  },
+  {
+    "UniqueID": "250_BP",
+    "id": 1592,
+    "company": "BP",
+    "title": "UPDATE 1-BP signs $12 billion energy deal in Egypt",
+    "sentiment score": 0.466
+  },
+  {
+    "UniqueID": "303_Glaxo",
+    "id": 1593,
+    "company": "Glaxo",
+    "title": "Glaxo gets OK to expand marketing of inhaler drug",
+    "sentiment score": 0.322
+  },
+  {
+    "UniqueID": "174_British American Tobacco",
+    "id": 1594,
+    "company": "British American Tobacco plc",
+    "title": "UPDATE: British American Tobacco 2014 Profit Drops, Difficult 2015 Ahead",
+    "sentiment score": -0.598
+  },
+  {
+    "UniqueID": "1315_Meggitt",
+    "id": 1595,
+    "company": "Meggitt",
+    "title": "CompaniesMeggitt profits hit by weak energy and military markets",
+    "sentiment score": -0.302
+  },
+  {
+    "UniqueID": "294_AstraZeneca",
+    "id": 1596,
+    "company": "AstraZeneca",
+    "title": "AstraZeneca, Juno latest to collaborate on immuno-oncology drugs",
+    "sentiment score": 0.247
+  },
+  {
+    "UniqueID": "1528_Tesco",
+    "id": 1597,
+    "company": "Tesco PLC",
+    "title": "Tesco share price steady as analysts weigh in on results",
+    "sentiment score": 0.052
+  },
+  {
+    "UniqueID": "1389_Barclays",
+    "id": 1598,
+    "company": "Barclays",
+    "title": "Barclays To Pay Ousted Boss Â£500000 Bonus",
+    "sentiment score": -0.128
+  },
+  {
+    "UniqueID": "1523_Valeant",
+    "id": 1599,
+    "company": "Valeant Pharmaceuticals International",
+    "title": "UPDATE 1-Valeant asks CEO Pearson to cooperate with US Senate committee",
+    "sentiment score": -0.148
+  },
+  {
+    "UniqueID": "821_Morrissons",
+    "id": 1600,
+    "company": "Morrisons",
+    "title": "Industry NewsMorrisons unveils which stores will close as 900 jobs face the axe",
+    "sentiment score": -0.731
+  },
+  {
+    "UniqueID": "1483_Shoeders",
+    "id": 1601,
+    "company": "Shoeders",
+    "title": "Schroders assets hit record in Q1, buoyed by institutional inflows",
+    "sentiment score": 0.674
+  },
+  {
+    "UniqueID": "1526_Lloyds",
+    "id": 1602,
+    "company": "Lloyds Banking Group PLC",
+    "title": "Profits drop six per cent at Lloyds Banking Group, beating analysts' expectations",
+    "sentiment score": -0.336
+  },
+  {
+    "UniqueID": "989_Tullow Oil",
+    "id": 1603,
+    "company": "Tullow Oil",
+    "title": "CompaniesTullow Oil will cut expenditure further in 2016",
+    "sentiment score": -0.066
+  },
+  {
+    "UniqueID": "1156_Glencore",
+    "id": 1604,
+    "company": "Glencore",
+    "title": "Glencore increases debt reduction and cuts spending",
+    "sentiment score": 0.304
+  },
+  {
+    "UniqueID": "679_WPP",
+    "id": 1605,
+    "company": "WPP",
+    "title": "Chime Communications Set To Be Acquired By WPP And Providence",
+    "sentiment score": 0.202
+  },
+  {
+    "UniqueID": "199_G4S",
+    "id": 1606,
+    "company": "G4S",
+    "title": "G4S sees profits rise but UK contract problems remain",
+    "sentiment score": 0.252
+  },
+  {
+    "UniqueID": "567_Diageo",
+    "id": 1607,
+    "company": "Diageo",
+    "title": "Britain's FTSE recovers two-month low after Diageo shares rally on bid report",
+    "sentiment score": 0.442
+  },
+  {
+    "UniqueID": "813_Glencore",
+    "id": 1608,
+    "company": "Glencore",
+    "title": "METALS-London copper climbs as shorts cover on Glencore cutbacks",
+    "sentiment score": -0.485
+  },
+  {
+    "UniqueID": "1337_AstraZeneca",
+    "id": 1609,
+    "company": "AstraZeneca",
+    "title": "CompaniesAstraZeneca shares hit as 2016 revenue forecast to fall",
+    "sentiment score": -0.375
+  },
+  {
+    "UniqueID": "1487_Crown Castle",
+    "id": 1610,
+    "company": "Crown Castle",
+    "title": "Crown Castle buys Tower Development Corp for $461 million",
+    "sentiment score": 0.331
+  },
+  {
+    "UniqueID": "1740_Persimmon",
+    "id": 1611,
+    "company": "Persimmon",
+    "title": "BRIEF-Persimmon says too soon to judge effect of Brexit",
+    "sentiment score": -0.114
+  },
+  {
+    "UniqueID": "826_Morrisons",
+    "id": 1612,
+    "company": "Morrisons",
+    "title": "Profit slumps at troubled UK grocer Morrisons",
+    "sentiment score": -0.63
+  },
+  {
+    "UniqueID": "270_Barclays",
+    "id": 1613,
+    "company": "Barclays",
+    "title": "U.K. Stocks Little Changed Near Record as Barclays, Shell Fall",
+    "sentiment score": -0.431
+  },
+  {
+    "UniqueID": "669_GlaxoSmithKline",
+    "id": 1614,
+    "company": "GlaxoSmithKline",
+    "title": "FTSE led lower by M&S, GlaxoSmithKline",
+    "sentiment score": -0.401
+  },
+  {
+    "UniqueID": "553_Petrofac",
+    "id": 1615,
+    "company": "Petrofac",
+    "title": "Petrofac share price rises despite Â£30m costs on North Sea project",
+    "sentiment score": 0.09
+  },
+  {
+    "UniqueID": "607_Economist Group",
+    "id": 1616,
+    "company": "Economist Group",
+    "title": "Pearson in Talks to Sell Its Stake in the Economist Group",
+    "sentiment score": 0.172
+  },
+  {
+    "UniqueID": "868_Glencore",
+    "id": 1617,
+    "company": "Glencore",
+    "title": "Investor body in talks with Glencore on $2.5 bln placing - Sky News",
+    "sentiment score": 0.054
+  },
+  {
+    "UniqueID": "1224_SABMiller",
+    "id": 1618,
+    "company": "SABMiller",
+    "title": "Japan's Asahi to submit bid next week for SABMiller's Grolsch and Peroni - Yomiuri",
+    "sentiment score": 0.236
+  },
+  {
+    "UniqueID": "642_Barclays",
+    "id": 1619,
+    "company": "Barclays",
+    "title": "Understated approach of Jenkins failed to win Barclays board over",
+    "sentiment score": -0.277
+  },
+  {
+    "UniqueID": "1133_AstraZeneca",
+    "id": 1620,
+    "company": "AstraZeneca",
+    "title": "UPDATE 1-AstraZeneca boosts respiratory unit with $575 mln Takeda deal",
+    "sentiment score": 0.37
+  },
+  {
+    "UniqueID": "1300_AstraZeneca",
+    "id": 1621,
+    "company": "AstraZeneca",
+    "title": "AstraZeneca agrees licensing deal for Plendil in China",
+    "sentiment score": 0.383
+  },
+  {
+    "UniqueID": "1708_Giraffe",
+    "id": 1622,
+    "company": "Giraffe",
+    "title": "Tesco set to sell Kipa, Giraffe businesses - Sky News",
+    "sentiment score": -0.221
+  },
+  {
+    "UniqueID": "329_RBS",
+    "id": 1623,
+    "company": "Royal Bank of Scotland Group plc",
+    "title": "Foreign exchange probes push RBS to Â£446m loss",
+    "sentiment score": -0.791
+  },
+  {
+    "UniqueID": "188_Whitbread",
+    "id": 1624,
+    "company": "Whitbread",
+    "title": "Whitbread share price climbs on Q4 sales growth",
+    "sentiment score": 0.513
+  },
+  {
+    "UniqueID": "556_Actelion",
+    "id": 1625,
+    "company": "Actelion",
+    "title": "CompaniesActelion shares hit record on Shire takeover talk",
+    "sentiment score": 0.721
+  },
+  {
+    "UniqueID": "89_Ashtead",
+    "id": 1626,
+    "company": "Ashtead",
+    "title": "UK Stocks Little Changed as Ashtead Gains, Housing Shares Drop",
+    "sentiment score": 0.288
+  },
+  {
+    "UniqueID": "1143_RBS",
+    "id": 1627,
+    "company": "Royal Bank of Scotland Group plc",
+    "title": "Standard Chartered, RBS Escape Capital Raising in Stress Test",
+    "sentiment score": 0.335
+  },
+  {
+    "UniqueID": "1473_Premier Foods",
+    "id": 1628,
+    "company": "Premier Foods",
+    "title": "CommentOpening Quote: Tesco; Premier Foods jilted; FCA on IPOs",
+    "sentiment score": -0.421
+  },
+  {
+    "UniqueID": "587_Barclays",
+    "id": 1629,
+    "company": "Barclays",
+    "title": "Barclays share price: Investment bank to shrink further despite CEO exit",
+    "sentiment score": -0.294
+  },
+  {
+    "UniqueID": "1716_Barclays",
+    "id": 1630,
+    "company": "Barclays",
+    "title": "Exclusive: Barclays reins in foreign exchange trading before referendum result - sources",
+    "sentiment score": 0.152
+  },
+  {
+    "UniqueID": "1407_Barclays",
+    "id": 1631,
+    "company": "Barclays",
+    "title": "Copper Falls With Mining Stocks as Barclays Warns of Pullback",
+    "sentiment score": -0.8
+  },
+  {
+    "UniqueID": "1233_Glencore",
+    "id": 1632,
+    "company": "Glencore",
+    "title": "LPC-Glencore launches refinancing of US$8.45bn loan",
+    "sentiment score": 0.173
+  },
+  {
+    "UniqueID": "242_GSK",
+    "id": 1633,
+    "company": "GSK",
+    "title": "GSK and Novartis complete deals to reshape both drugmakers",
+    "sentiment score": 0.285
+  },
+  {
+    "UniqueID": "1372_AstraZeneca",
+    "id": 1634,
+    "company": "AstraZeneca",
+    "title": "Sanofi poaches AstraZeneca scientist as new research head",
+    "sentiment score": -0.058
+  }
+]
