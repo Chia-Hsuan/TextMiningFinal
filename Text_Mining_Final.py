@@ -6,6 +6,8 @@ from sklearn.svm import SVR
 import numpy as np
 import nltk
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
+from nltk.tag import StanfordNERTagger
+from nltk.tokenize import word_tokenize
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.pipeline import Pipeline
 from sklearn.feature_extraction.text import TfidfVectorizer
@@ -26,6 +28,7 @@ df['sentiment score'] = df['sentiment score'].apply(lambda x: (float(x)))
 df['tokenized_text'] = df['text'].apply(lambda x: re.sub(r"http\S+", "", x)).apply(lambda x: CountVectorizer().build_analyzer()(x))
 
 df_feature = pd.DataFrame()
+st = StanfordNERTagger('/usr/share/stanford-ner/classifiers/english.all.3class.distsim.crf.ser.gz', '/usr/share/stanford-ner/stanford-ner.jar', encoding='utf-8')
 
 # tfidf
 tfidf = TfidfVectorizer(ngram_range=(1, 3), min_df=0.01, max_df=0.5)
@@ -96,10 +99,14 @@ def pos_tagger(text, catagory):
         word = [wt[0] for (wt, _) in word_tag.most_common() if wt[1] == 'JJ' or wt[1] == 'JJR' or wt[1] == 'JJS']
     elif catagory == 'adv':
         word = [wt[0] for (wt, _) in word_tag.most_common() if wt[1] == 'RB' or wt[1] == 'RBR' or wt[1] == 'RBS']
-    elif catagory == 'adj_adv':
-        word = [wt[0] for (wt, _) in word_tag.most_common() if wt[1] == 'JJ' or wt[1] == 'JJR' or wt[1] == 'JJS' or wt[1] == 'RB' or wt[1] == 'RBR' or wt[1] == 'RBS']
     elif catagory == 'verb':
         word = [wt[0] for (wt, _) in word_tag.most_common() if wt[1] == 'VB' or wt[1] == 'VBD' or wt[1] == 'VBG' or wt[1] == 'VBN' or wt[1] == 'VBP' or wt[1] == 'VBZ']
+    elif catagory == 'adj_adv':
+        word = [wt[0] for (wt, _) in word_tag.most_common() if wt[1] == 'JJ' or wt[1] == 'JJR' or wt[1] == 'JJS' or wt[1] == 'RB' or wt[1] == 'RBR' or wt[1] == 'RBS']
+    elif catagory == 'adj_verb':
+        word = [wt[0] for (wt, _) in word_tag.most_common() if wt[1] == 'JJ' or wt[1] == 'JJR' or wt[1] == 'JJS' or wt[1] == 'VB' or wt[1] == 'VBD' or wt[1] == 'VBG' or wt[1] == 'VBN' or wt[1] == 'VBP' or wt[1] == 'VBZ']
+    elif catagory == 'adv_verb':
+        word = [wt[0] for (wt, _) in word_tag.most_common() if wt[1] == 'RB' or wt[1] == 'RBR' or wt[1] == 'RBS' or wt[1] == 'VB' or wt[1] == 'VBD' or wt[1] == 'VBG' or wt[1] == 'VBN' or wt[1] == 'VBP' or wt[1] == 'VBZ']
     elif catagory == 'adj_adv_verb':
         word = [wt[0] for (wt, _) in word_tag.most_common() if wt[1] == 'JJ' or wt[1] == 'JJR' or wt[1] == 'JJS' or wt[1] == 'RB' or wt[1] == 'RBR' or wt[1] == 'RBS' or wt[1] == 'VB' or wt[1] == 'VBD' or wt[1] == 'VBG' or wt[1] == 'VBN' or wt[1] == 'VBP' or wt[1] == 'VBZ']
     return word
@@ -107,11 +114,13 @@ def pos_tagger(text, catagory):
 
 df['pos-tag-adj'] = df['tokenized_text'].apply(pos_tagger, catagory='adj')
 df['pos-tag-adv'] = df['tokenized_text'].apply(pos_tagger, catagory='adv')
-df['pos-tag-adj_adv'] = df['tokenized_text'].apply(pos_tagger, catagory='adj_adv')
 df['pos-tag-verb'] = df['tokenized_text'].apply(pos_tagger, catagory='verb')
+df['pos-tag-adj_adv'] = df['tokenized_text'].apply(pos_tagger, catagory='adj_adv')
+df['pos-tag-adj_verb'] = df['tokenized_text'].apply(pos_tagger, catagory='adj_verb')
+df['pos-tag-adv_verb'] = df['tokenized_text'].apply(pos_tagger, catagory='adv_verb')
 df['pos-tag-adj_adv_verb'] = df['tokenized_text'].apply(pos_tagger, catagory='adj_adv_verb')
 
-for p in range(5):
+for p in range(7):
     if p == 0:
         pos = "adj"
         pos_name = "Adj"
@@ -119,11 +128,17 @@ for p in range(5):
         pos = "adv"
         pos_name = "Adv"
     elif p == 2:
-        pos = "adj_adv"
-        pos_name = "AdjAdv"
-    elif p == 3:
         pos = "verb"
         pos_name = "Verb"
+    elif p == 3:
+        pos = "adj_adv"
+        pos_name = "AdjAdv"
+    elif p == 4:
+        pos = "adj_verb"
+        pos_name = "AdjVerb"
+    elif p == 5:
+        pos = "adv_verb"
+        pos_name = "AdvVerb"
     else:
         pos = "adj_adv_verb"
         pos_name = "AdjAdvVerb"
